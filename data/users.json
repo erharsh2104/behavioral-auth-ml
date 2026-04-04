@@ -1,0 +1,4588 @@
+{
+  "users": {
+    "Alice": {
+      "created": "2026-03-30T08:08:52.877662",
+      "samples": [
+        {
+          "timestamp": "2026-03-30T08:08:52.879279",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 65.21755121916034,
+            "std_dwell": 8.176509144139798,
+            "median_dwell": 66.00378889702833,
+            "max_dwell": 77.31427979686134,
+            "mean_flight": 53.95241111723206,
+            "std_flight": 9.984230238383892,
+            "median_flight": 52.48776239231278,
+            "min_flight": 35.131941122402,
+            "typing_speed_wpm": 95.5509866571744,
+            "dwell_flight_ratio": 1.2087977139233035,
+            "rhythm_consistency": 0.8438418092240481,
+            "total_time_ms": 2979.24905840981,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.880175",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 72.21372260117863,
+            "std_dwell": 8.519244617587946,
+            "median_dwell": 70.26257799748537,
+            "max_dwell": 102.11562306115354,
+            "mean_flight": 58.25513076730985,
+            "std_flight": 9.339706029446106,
+            "median_flight": 57.24039346977285,
+            "min_flight": 42.9106674271263,
+            "typing_speed_wpm": 90.28852298671535,
+            "dwell_flight_ratio": 1.2396113724235551,
+            "rhythm_consistency": 0.861828114808107,
+            "total_time_ms": 3261.721334212212,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.881026",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.90137960176202,
+            "std_dwell": 8.431052078018094,
+            "median_dwell": 66.68925756865436,
+            "max_dwell": 86.4898219460029,
+            "mean_flight": 53.96885708664135,
+            "std_flight": 10.587156519197622,
+            "median_flight": 53.79987329546555,
+            "min_flight": 33.27579829316601,
+            "typing_speed_wpm": 91.36033290425577,
+            "dwell_flight_ratio": 1.3137461756497322,
+            "rhythm_consistency": 0.8360004602539455,
+            "total_time_ms": 3121.7559172100837,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.881937",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.61775490644692,
+            "std_dwell": 7.835242338456633,
+            "median_dwell": 71.07026735099016,
+            "max_dwell": 82.54946256959911,
+            "mean_flight": 55.60124919280025,
+            "std_flight": 10.760039540770384,
+            "median_flight": 56.220757057213426,
+            "min_flight": 32.05704282698988,
+            "typing_speed_wpm": 89.1421965480519,
+            "dwell_flight_ratio": 1.2700749701068073,
+            "rhythm_consistency": 0.8378566820187877,
+            "total_time_ms": 3155.4751024811794,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.882776",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 68.57892362243588,
+            "std_dwell": 10.769575460730296,
+            "median_dwell": 69.19760998421624,
+            "max_dwell": 85.83563022545509,
+            "mean_flight": 55.815530893186136,
+            "std_flight": 12.028588306900138,
+            "median_flight": 56.5012575938243,
+            "min_flight": 31.06031394814589,
+            "typing_speed_wpm": 94.43559003961141,
+            "dwell_flight_ratio": 1.2286709904036384,
+            "rhythm_consistency": 0.8227025651047903,
+            "total_time_ms": 3109.8613628905505,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.883720",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 71.26879876917727,
+            "std_dwell": 9.417066478527142,
+            "median_dwell": 72.8103140691967,
+            "max_dwell": 88.99036766672438,
+            "mean_flight": 54.946796868834134,
+            "std_flight": 11.529796307792536,
+            "median_flight": 58.60140280566458,
+            "min_flight": 28.872746529036192,
+            "typing_speed_wpm": 83.73527453956322,
+            "dwell_flight_ratio": 1.2970510171740508,
+            "rhythm_consistency": 0.826558556074645,
+            "total_time_ms": 3155.389890950285,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.884899",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 67.46135378679257,
+            "std_dwell": 6.230797056312696,
+            "median_dwell": 66.60308185021641,
+            "max_dwell": 83.80589464212586,
+            "mean_flight": 52.85228759142263,
+            "std_flight": 11.663652039412812,
+            "median_flight": 52.11176460554145,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 94.29079989651275,
+            "dwell_flight_ratio": 1.2764131291403333,
+            "rhythm_consistency": 0.8192128626483158,
+            "total_time_ms": 3007.84103445538,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.886298",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 69.06392942380023,
+            "std_dwell": 6.088540821619186,
+            "median_dwell": 69.22118979357985,
+            "max_dwell": 80.56544682766788,
+            "mean_flight": 54.9065356195351,
+            "std_flight": 11.348851167710217,
+            "median_flight": 57.21689670918213,
+            "min_flight": 34.82334477988201,
+            "typing_speed_wpm": 94.76355946084169,
+            "dwell_flight_ratio": 1.257845330150972,
+            "rhythm_consistency": 0.8287105136952433,
+            "total_time_ms": 3099.261626083383,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.887200",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 72.68671661499899,
+            "std_dwell": 6.998968341062752,
+            "median_dwell": 72.61862540316689,
+            "max_dwell": 85.79595775684967,
+            "mean_flight": 59.475440826883116,
+            "std_flight": 12.498904602496088,
+            "median_flight": 60.32521292030076,
+            "min_flight": 34.79709865262546,
+            "typing_speed_wpm": 90.46158639334618,
+            "dwell_flight_ratio": 1.2221299347165886,
+            "rhythm_consistency": 0.8263422261372292,
+            "total_time_ms": 3304.0539360470525,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.888391",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 69.37757448623071,
+            "std_dwell": 8.246757641378037,
+            "median_dwell": 70.87571200516055,
+            "max_dwell": 81.3470089683677,
+            "mean_flight": 50.59592744969049,
+            "std_flight": 11.467879729925643,
+            "median_flight": 47.41795461968924,
+            "min_flight": 28.763751970658625,
+            "typing_speed_wpm": 86.01691733907114,
+            "dwell_flight_ratio": 1.3712086719868026,
+            "rhythm_consistency": 0.8152243593961782,
+            "total_time_ms": 2999.33754839803,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.889249",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.3345283946218,
+            "std_dwell": 8.824417707197973,
+            "median_dwell": 69.34318012431828,
+            "max_dwell": 89.53199682508794,
+            "mean_flight": 56.78707323055037,
+            "std_flight": 9.807709887985338,
+            "median_flight": 58.24480191108946,
+            "min_flight": 32.8957788129295,
+            "typing_speed_wpm": 78.5097748052961,
+            "dwell_flight_ratio": 1.2385658283368468,
+            "rhythm_consistency": 0.8527255525327252,
+            "total_time_ms": 3178.040040629304,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.890277",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 69.98554760781121,
+            "std_dwell": 8.453548734036147,
+            "median_dwell": 69.67982284713415,
+            "max_dwell": 87.33236423137781,
+            "mean_flight": 55.33202640955141,
+            "std_flight": 11.607345353364837,
+            "median_flight": 54.01517020200046,
+            "min_flight": 35.74208119236019,
+            "typing_speed_wpm": 92.23288519160538,
+            "dwell_flight_ratio": 1.2648289272798134,
+            "rhythm_consistency": 0.8265991292168775,
+            "total_time_ms": 3132.9393504340655,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.891613",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 68.82795735399884,
+            "std_dwell": 7.427872436311102,
+            "median_dwell": 67.11418376939119,
+            "max_dwell": 84.27343491191357,
+            "mean_flight": 52.84371287148311,
+            "std_flight": 15.864119096833674,
+            "median_flight": 52.10270013682111,
+            "min_flight": 23.502507189872897,
+            "typing_speed_wpm": 89.20870207754031,
+            "dwell_flight_ratio": 1.302481480084295,
+            "rhythm_consistency": 0.7691075581580119,
+            "total_time_ms": 3041.7917556370485,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.892587",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 71.20964690921697,
+            "std_dwell": 7.808631350416292,
+            "median_dwell": 70.46128347250558,
+            "max_dwell": 90.07414422322086,
+            "mean_flight": 55.352547105691265,
+            "std_flight": 9.702580432717719,
+            "median_flight": 54.24551318860096,
+            "min_flight": 39.50134065898557,
+            "typing_speed_wpm": 85.46667814464737,
+            "dwell_flight_ratio": 1.286474618290787,
+            "rhythm_consistency": 0.8508560231937251,
+            "total_time_ms": 3164.054850372706,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.893782",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.05587026093453,
+            "std_dwell": 8.102020188518297,
+            "median_dwell": 71.17001858684509,
+            "max_dwell": 88.82729922443849,
+            "mean_flight": 53.89365237501608,
+            "std_flight": 9.157427315307956,
+            "median_flight": 55.37169691744549,
+            "min_flight": 35.91844641350553,
+            "typing_speed_wpm": 94.70683071557312,
+            "dwell_flight_ratio": 1.2998909365699418,
+            "rhythm_consistency": 0.8547617683902521,
+            "total_time_ms": 3098.738065898765,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.694330",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 65.21755121916034,
+            "std_dwell": 8.176509144139798,
+            "median_dwell": 66.00378889702833,
+            "max_dwell": 77.31427979686134,
+            "mean_flight": 53.95241111723206,
+            "std_flight": 9.984230238383892,
+            "median_flight": 52.48776239231278,
+            "min_flight": 35.131941122402,
+            "typing_speed_wpm": 95.5509866571744,
+            "dwell_flight_ratio": 1.2087977139233035,
+            "rhythm_consistency": 0.8438418092240481,
+            "total_time_ms": 2979.24905840981,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.698331",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 72.21372260117863,
+            "std_dwell": 8.519244617587946,
+            "median_dwell": 70.26257799748537,
+            "max_dwell": 102.11562306115354,
+            "mean_flight": 58.25513076730985,
+            "std_flight": 9.339706029446106,
+            "median_flight": 57.24039346977285,
+            "min_flight": 42.9106674271263,
+            "typing_speed_wpm": 90.28852298671535,
+            "dwell_flight_ratio": 1.2396113724235551,
+            "rhythm_consistency": 0.861828114808107,
+            "total_time_ms": 3261.721334212212,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.701340",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.90137960176202,
+            "std_dwell": 8.431052078018094,
+            "median_dwell": 66.68925756865436,
+            "max_dwell": 86.4898219460029,
+            "mean_flight": 53.96885708664135,
+            "std_flight": 10.587156519197622,
+            "median_flight": 53.79987329546555,
+            "min_flight": 33.27579829316601,
+            "typing_speed_wpm": 91.36033290425577,
+            "dwell_flight_ratio": 1.3137461756497322,
+            "rhythm_consistency": 0.8360004602539455,
+            "total_time_ms": 3121.7559172100837,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.705226",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.61775490644692,
+            "std_dwell": 7.835242338456633,
+            "median_dwell": 71.07026735099016,
+            "max_dwell": 82.54946256959911,
+            "mean_flight": 55.60124919280025,
+            "std_flight": 10.760039540770384,
+            "median_flight": 56.220757057213426,
+            "min_flight": 32.05704282698988,
+            "typing_speed_wpm": 89.1421965480519,
+            "dwell_flight_ratio": 1.2700749701068073,
+            "rhythm_consistency": 0.8378566820187877,
+            "total_time_ms": 3155.4751024811794,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.708671",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 68.57892362243588,
+            "std_dwell": 10.769575460730296,
+            "median_dwell": 69.19760998421624,
+            "max_dwell": 85.83563022545509,
+            "mean_flight": 55.815530893186136,
+            "std_flight": 12.028588306900138,
+            "median_flight": 56.5012575938243,
+            "min_flight": 31.06031394814589,
+            "typing_speed_wpm": 94.43559003961141,
+            "dwell_flight_ratio": 1.2286709904036384,
+            "rhythm_consistency": 0.8227025651047903,
+            "total_time_ms": 3109.8613628905505,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.713063",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 71.26879876917727,
+            "std_dwell": 9.417066478527142,
+            "median_dwell": 72.8103140691967,
+            "max_dwell": 88.99036766672438,
+            "mean_flight": 54.946796868834134,
+            "std_flight": 11.529796307792536,
+            "median_flight": 58.60140280566458,
+            "min_flight": 28.872746529036192,
+            "typing_speed_wpm": 83.73527453956322,
+            "dwell_flight_ratio": 1.2970510171740508,
+            "rhythm_consistency": 0.826558556074645,
+            "total_time_ms": 3155.389890950285,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.717066",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 67.46135378679257,
+            "std_dwell": 6.230797056312696,
+            "median_dwell": 66.60308185021641,
+            "max_dwell": 83.80589464212586,
+            "mean_flight": 52.85228759142263,
+            "std_flight": 11.663652039412812,
+            "median_flight": 52.11176460554145,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 94.29079989651275,
+            "dwell_flight_ratio": 1.2764131291403333,
+            "rhythm_consistency": 0.8192128626483158,
+            "total_time_ms": 3007.84103445538,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.721068",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 69.06392942380023,
+            "std_dwell": 6.088540821619186,
+            "median_dwell": 69.22118979357985,
+            "max_dwell": 80.56544682766788,
+            "mean_flight": 54.9065356195351,
+            "std_flight": 11.348851167710217,
+            "median_flight": 57.21689670918213,
+            "min_flight": 34.82334477988201,
+            "typing_speed_wpm": 94.76355946084169,
+            "dwell_flight_ratio": 1.257845330150972,
+            "rhythm_consistency": 0.8287105136952433,
+            "total_time_ms": 3099.261626083383,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.725068",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 72.68671661499899,
+            "std_dwell": 6.998968341062752,
+            "median_dwell": 72.61862540316689,
+            "max_dwell": 85.79595775684967,
+            "mean_flight": 59.475440826883116,
+            "std_flight": 12.498904602496088,
+            "median_flight": 60.32521292030076,
+            "min_flight": 34.79709865262546,
+            "typing_speed_wpm": 90.46158639334618,
+            "dwell_flight_ratio": 1.2221299347165886,
+            "rhythm_consistency": 0.8263422261372292,
+            "total_time_ms": 3304.0539360470525,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.730067",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 69.37757448623071,
+            "std_dwell": 8.246757641378037,
+            "median_dwell": 70.87571200516055,
+            "max_dwell": 81.3470089683677,
+            "mean_flight": 50.59592744969049,
+            "std_flight": 11.467879729925643,
+            "median_flight": 47.41795461968924,
+            "min_flight": 28.763751970658625,
+            "typing_speed_wpm": 86.01691733907114,
+            "dwell_flight_ratio": 1.3712086719868026,
+            "rhythm_consistency": 0.8152243593961782,
+            "total_time_ms": 2999.33754839803,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.733067",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.3345283946218,
+            "std_dwell": 8.824417707197973,
+            "median_dwell": 69.34318012431828,
+            "max_dwell": 89.53199682508794,
+            "mean_flight": 56.78707323055037,
+            "std_flight": 9.807709887985338,
+            "median_flight": 58.24480191108946,
+            "min_flight": 32.8957788129295,
+            "typing_speed_wpm": 78.5097748052961,
+            "dwell_flight_ratio": 1.2385658283368468,
+            "rhythm_consistency": 0.8527255525327252,
+            "total_time_ms": 3178.040040629304,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.738551",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 69.98554760781121,
+            "std_dwell": 8.453548734036147,
+            "median_dwell": 69.67982284713415,
+            "max_dwell": 87.33236423137781,
+            "mean_flight": 55.33202640955141,
+            "std_flight": 11.607345353364837,
+            "median_flight": 54.01517020200046,
+            "min_flight": 35.74208119236019,
+            "typing_speed_wpm": 92.23288519160538,
+            "dwell_flight_ratio": 1.2648289272798134,
+            "rhythm_consistency": 0.8265991292168775,
+            "total_time_ms": 3132.9393504340655,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.742550",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 68.82795735399884,
+            "std_dwell": 7.427872436311102,
+            "median_dwell": 67.11418376939119,
+            "max_dwell": 84.27343491191357,
+            "mean_flight": 52.84371287148311,
+            "std_flight": 15.864119096833674,
+            "median_flight": 52.10270013682111,
+            "min_flight": 23.502507189872897,
+            "typing_speed_wpm": 89.20870207754031,
+            "dwell_flight_ratio": 1.302481480084295,
+            "rhythm_consistency": 0.7691075581580119,
+            "total_time_ms": 3041.7917556370485,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.747550",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 71.20964690921697,
+            "std_dwell": 7.808631350416292,
+            "median_dwell": 70.46128347250558,
+            "max_dwell": 90.07414422322086,
+            "mean_flight": 55.352547105691265,
+            "std_flight": 9.702580432717719,
+            "median_flight": 54.24551318860096,
+            "min_flight": 39.50134065898557,
+            "typing_speed_wpm": 85.46667814464737,
+            "dwell_flight_ratio": 1.286474618290787,
+            "rhythm_consistency": 0.8508560231937251,
+            "total_time_ms": 3164.054850372706,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.751559",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.05587026093453,
+            "std_dwell": 8.102020188518297,
+            "median_dwell": 71.17001858684509,
+            "max_dwell": 88.82729922443849,
+            "mean_flight": 53.89365237501608,
+            "std_flight": 9.157427315307956,
+            "median_flight": 55.37169691744549,
+            "min_flight": 35.91844641350553,
+            "typing_speed_wpm": 94.70683071557312,
+            "dwell_flight_ratio": 1.2998909365699418,
+            "rhythm_consistency": 0.8547617683902521,
+            "total_time_ms": 3098.738065898765,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.345299",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 65.21755121916034,
+            "std_dwell": 8.176509144139798,
+            "median_dwell": 66.00378889702833,
+            "max_dwell": 77.31427979686134,
+            "mean_flight": 53.95241111723206,
+            "std_flight": 9.984230238383892,
+            "median_flight": 52.48776239231278,
+            "min_flight": 35.131941122402,
+            "typing_speed_wpm": 95.5509866571744,
+            "dwell_flight_ratio": 1.2087977139233035,
+            "rhythm_consistency": 0.8438418092240481,
+            "total_time_ms": 2979.24905840981,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.351299",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 72.21372260117863,
+            "std_dwell": 8.519244617587946,
+            "median_dwell": 70.26257799748537,
+            "max_dwell": 102.11562306115354,
+            "mean_flight": 58.25513076730985,
+            "std_flight": 9.339706029446106,
+            "median_flight": 57.24039346977285,
+            "min_flight": 42.9106674271263,
+            "typing_speed_wpm": 90.28852298671535,
+            "dwell_flight_ratio": 1.2396113724235551,
+            "rhythm_consistency": 0.861828114808107,
+            "total_time_ms": 3261.721334212212,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.358299",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.90137960176202,
+            "std_dwell": 8.431052078018094,
+            "median_dwell": 66.68925756865436,
+            "max_dwell": 86.4898219460029,
+            "mean_flight": 53.96885708664135,
+            "std_flight": 10.587156519197622,
+            "median_flight": 53.79987329546555,
+            "min_flight": 33.27579829316601,
+            "typing_speed_wpm": 91.36033290425577,
+            "dwell_flight_ratio": 1.3137461756497322,
+            "rhythm_consistency": 0.8360004602539455,
+            "total_time_ms": 3121.7559172100837,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.365298",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.61775490644692,
+            "std_dwell": 7.835242338456633,
+            "median_dwell": 71.07026735099016,
+            "max_dwell": 82.54946256959911,
+            "mean_flight": 55.60124919280025,
+            "std_flight": 10.760039540770384,
+            "median_flight": 56.220757057213426,
+            "min_flight": 32.05704282698988,
+            "typing_speed_wpm": 89.1421965480519,
+            "dwell_flight_ratio": 1.2700749701068073,
+            "rhythm_consistency": 0.8378566820187877,
+            "total_time_ms": 3155.4751024811794,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.370715",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 68.57892362243588,
+            "std_dwell": 10.769575460730296,
+            "median_dwell": 69.19760998421624,
+            "max_dwell": 85.83563022545509,
+            "mean_flight": 55.815530893186136,
+            "std_flight": 12.028588306900138,
+            "median_flight": 56.5012575938243,
+            "min_flight": 31.06031394814589,
+            "typing_speed_wpm": 94.43559003961141,
+            "dwell_flight_ratio": 1.2286709904036384,
+            "rhythm_consistency": 0.8227025651047903,
+            "total_time_ms": 3109.8613628905505,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.377720",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 71.26879876917727,
+            "std_dwell": 9.417066478527142,
+            "median_dwell": 72.8103140691967,
+            "max_dwell": 88.99036766672438,
+            "mean_flight": 54.946796868834134,
+            "std_flight": 11.529796307792536,
+            "median_flight": 58.60140280566458,
+            "min_flight": 28.872746529036192,
+            "typing_speed_wpm": 83.73527453956322,
+            "dwell_flight_ratio": 1.2970510171740508,
+            "rhythm_consistency": 0.826558556074645,
+            "total_time_ms": 3155.389890950285,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.383726",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 67.46135378679257,
+            "std_dwell": 6.230797056312696,
+            "median_dwell": 66.60308185021641,
+            "max_dwell": 83.80589464212586,
+            "mean_flight": 52.85228759142263,
+            "std_flight": 11.663652039412812,
+            "median_flight": 52.11176460554145,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 94.29079989651275,
+            "dwell_flight_ratio": 1.2764131291403333,
+            "rhythm_consistency": 0.8192128626483158,
+            "total_time_ms": 3007.84103445538,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.390789",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 69.06392942380023,
+            "std_dwell": 6.088540821619186,
+            "median_dwell": 69.22118979357985,
+            "max_dwell": 80.56544682766788,
+            "mean_flight": 54.9065356195351,
+            "std_flight": 11.348851167710217,
+            "median_flight": 57.21689670918213,
+            "min_flight": 34.82334477988201,
+            "typing_speed_wpm": 94.76355946084169,
+            "dwell_flight_ratio": 1.257845330150972,
+            "rhythm_consistency": 0.8287105136952433,
+            "total_time_ms": 3099.261626083383,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.397141",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 72.68671661499899,
+            "std_dwell": 6.998968341062752,
+            "median_dwell": 72.61862540316689,
+            "max_dwell": 85.79595775684967,
+            "mean_flight": 59.475440826883116,
+            "std_flight": 12.498904602496088,
+            "median_flight": 60.32521292030076,
+            "min_flight": 34.79709865262546,
+            "typing_speed_wpm": 90.46158639334618,
+            "dwell_flight_ratio": 1.2221299347165886,
+            "rhythm_consistency": 0.8263422261372292,
+            "total_time_ms": 3304.0539360470525,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.403140",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 69.37757448623071,
+            "std_dwell": 8.246757641378037,
+            "median_dwell": 70.87571200516055,
+            "max_dwell": 81.3470089683677,
+            "mean_flight": 50.59592744969049,
+            "std_flight": 11.467879729925643,
+            "median_flight": 47.41795461968924,
+            "min_flight": 28.763751970658625,
+            "typing_speed_wpm": 86.01691733907114,
+            "dwell_flight_ratio": 1.3712086719868026,
+            "rhythm_consistency": 0.8152243593961782,
+            "total_time_ms": 2999.33754839803,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.410244",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.3345283946218,
+            "std_dwell": 8.824417707197973,
+            "median_dwell": 69.34318012431828,
+            "max_dwell": 89.53199682508794,
+            "mean_flight": 56.78707323055037,
+            "std_flight": 9.807709887985338,
+            "median_flight": 58.24480191108946,
+            "min_flight": 32.8957788129295,
+            "typing_speed_wpm": 78.5097748052961,
+            "dwell_flight_ratio": 1.2385658283368468,
+            "rhythm_consistency": 0.8527255525327252,
+            "total_time_ms": 3178.040040629304,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.416245",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 69.98554760781121,
+            "std_dwell": 8.453548734036147,
+            "median_dwell": 69.67982284713415,
+            "max_dwell": 87.33236423137781,
+            "mean_flight": 55.33202640955141,
+            "std_flight": 11.607345353364837,
+            "median_flight": 54.01517020200046,
+            "min_flight": 35.74208119236019,
+            "typing_speed_wpm": 92.23288519160538,
+            "dwell_flight_ratio": 1.2648289272798134,
+            "rhythm_consistency": 0.8265991292168775,
+            "total_time_ms": 3132.9393504340655,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.422253",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 68.82795735399884,
+            "std_dwell": 7.427872436311102,
+            "median_dwell": 67.11418376939119,
+            "max_dwell": 84.27343491191357,
+            "mean_flight": 52.84371287148311,
+            "std_flight": 15.864119096833674,
+            "median_flight": 52.10270013682111,
+            "min_flight": 23.502507189872897,
+            "typing_speed_wpm": 89.20870207754031,
+            "dwell_flight_ratio": 1.302481480084295,
+            "rhythm_consistency": 0.7691075581580119,
+            "total_time_ms": 3041.7917556370485,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.429244",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 71.20964690921697,
+            "std_dwell": 7.808631350416292,
+            "median_dwell": 70.46128347250558,
+            "max_dwell": 90.07414422322086,
+            "mean_flight": 55.352547105691265,
+            "std_flight": 9.702580432717719,
+            "median_flight": 54.24551318860096,
+            "min_flight": 39.50134065898557,
+            "typing_speed_wpm": 85.46667814464737,
+            "dwell_flight_ratio": 1.286474618290787,
+            "rhythm_consistency": 0.8508560231937251,
+            "total_time_ms": 3164.054850372706,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.436246",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.05587026093453,
+            "std_dwell": 8.102020188518297,
+            "median_dwell": 71.17001858684509,
+            "max_dwell": 88.82729922443849,
+            "mean_flight": 53.89365237501608,
+            "std_flight": 9.157427315307956,
+            "median_flight": 55.37169691744549,
+            "min_flight": 35.91844641350553,
+            "typing_speed_wpm": 94.70683071557312,
+            "dwell_flight_ratio": 1.2998909365699418,
+            "rhythm_consistency": 0.8547617683902521,
+            "total_time_ms": 3098.738065898765,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.698201",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 65.21755121916034,
+            "std_dwell": 8.176509144139798,
+            "median_dwell": 66.00378889702833,
+            "max_dwell": 77.31427979686134,
+            "mean_flight": 53.95241111723206,
+            "std_flight": 9.984230238383892,
+            "median_flight": 52.48776239231278,
+            "min_flight": 35.131941122402,
+            "typing_speed_wpm": 95.5509866571744,
+            "dwell_flight_ratio": 1.2087977139233035,
+            "rhythm_consistency": 0.8438418092240481,
+            "total_time_ms": 2979.24905840981,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.707205",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 72.21372260117863,
+            "std_dwell": 8.519244617587946,
+            "median_dwell": 70.26257799748537,
+            "max_dwell": 102.11562306115354,
+            "mean_flight": 58.25513076730985,
+            "std_flight": 9.339706029446106,
+            "median_flight": 57.24039346977285,
+            "min_flight": 42.9106674271263,
+            "typing_speed_wpm": 90.28852298671535,
+            "dwell_flight_ratio": 1.2396113724235551,
+            "rhythm_consistency": 0.861828114808107,
+            "total_time_ms": 3261.721334212212,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.715473",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.90137960176202,
+            "std_dwell": 8.431052078018094,
+            "median_dwell": 66.68925756865436,
+            "max_dwell": 86.4898219460029,
+            "mean_flight": 53.96885708664135,
+            "std_flight": 10.587156519197622,
+            "median_flight": 53.79987329546555,
+            "min_flight": 33.27579829316601,
+            "typing_speed_wpm": 91.36033290425577,
+            "dwell_flight_ratio": 1.3137461756497322,
+            "rhythm_consistency": 0.8360004602539455,
+            "total_time_ms": 3121.7559172100837,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.723609",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.61775490644692,
+            "std_dwell": 7.835242338456633,
+            "median_dwell": 71.07026735099016,
+            "max_dwell": 82.54946256959911,
+            "mean_flight": 55.60124919280025,
+            "std_flight": 10.760039540770384,
+            "median_flight": 56.220757057213426,
+            "min_flight": 32.05704282698988,
+            "typing_speed_wpm": 89.1421965480519,
+            "dwell_flight_ratio": 1.2700749701068073,
+            "rhythm_consistency": 0.8378566820187877,
+            "total_time_ms": 3155.4751024811794,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.733129",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 68.57892362243588,
+            "std_dwell": 10.769575460730296,
+            "median_dwell": 69.19760998421624,
+            "max_dwell": 85.83563022545509,
+            "mean_flight": 55.815530893186136,
+            "std_flight": 12.028588306900138,
+            "median_flight": 56.5012575938243,
+            "min_flight": 31.06031394814589,
+            "typing_speed_wpm": 94.43559003961141,
+            "dwell_flight_ratio": 1.2286709904036384,
+            "rhythm_consistency": 0.8227025651047903,
+            "total_time_ms": 3109.8613628905505,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.741652",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 71.26879876917727,
+            "std_dwell": 9.417066478527142,
+            "median_dwell": 72.8103140691967,
+            "max_dwell": 88.99036766672438,
+            "mean_flight": 54.946796868834134,
+            "std_flight": 11.529796307792536,
+            "median_flight": 58.60140280566458,
+            "min_flight": 28.872746529036192,
+            "typing_speed_wpm": 83.73527453956322,
+            "dwell_flight_ratio": 1.2970510171740508,
+            "rhythm_consistency": 0.826558556074645,
+            "total_time_ms": 3155.389890950285,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.749695",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 67.46135378679257,
+            "std_dwell": 6.230797056312696,
+            "median_dwell": 66.60308185021641,
+            "max_dwell": 83.80589464212586,
+            "mean_flight": 52.85228759142263,
+            "std_flight": 11.663652039412812,
+            "median_flight": 52.11176460554145,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 94.29079989651275,
+            "dwell_flight_ratio": 1.2764131291403333,
+            "rhythm_consistency": 0.8192128626483158,
+            "total_time_ms": 3007.84103445538,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.758198",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 69.06392942380023,
+            "std_dwell": 6.088540821619186,
+            "median_dwell": 69.22118979357985,
+            "max_dwell": 80.56544682766788,
+            "mean_flight": 54.9065356195351,
+            "std_flight": 11.348851167710217,
+            "median_flight": 57.21689670918213,
+            "min_flight": 34.82334477988201,
+            "typing_speed_wpm": 94.76355946084169,
+            "dwell_flight_ratio": 1.257845330150972,
+            "rhythm_consistency": 0.8287105136952433,
+            "total_time_ms": 3099.261626083383,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.766208",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 72.68671661499899,
+            "std_dwell": 6.998968341062752,
+            "median_dwell": 72.61862540316689,
+            "max_dwell": 85.79595775684967,
+            "mean_flight": 59.475440826883116,
+            "std_flight": 12.498904602496088,
+            "median_flight": 60.32521292030076,
+            "min_flight": 34.79709865262546,
+            "typing_speed_wpm": 90.46158639334618,
+            "dwell_flight_ratio": 1.2221299347165886,
+            "rhythm_consistency": 0.8263422261372292,
+            "total_time_ms": 3304.0539360470525,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.774743",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 69.37757448623071,
+            "std_dwell": 8.246757641378037,
+            "median_dwell": 70.87571200516055,
+            "max_dwell": 81.3470089683677,
+            "mean_flight": 50.59592744969049,
+            "std_flight": 11.467879729925643,
+            "median_flight": 47.41795461968924,
+            "min_flight": 28.763751970658625,
+            "typing_speed_wpm": 86.01691733907114,
+            "dwell_flight_ratio": 1.3712086719868026,
+            "rhythm_consistency": 0.8152243593961782,
+            "total_time_ms": 2999.33754839803,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.783256",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.3345283946218,
+            "std_dwell": 8.824417707197973,
+            "median_dwell": 69.34318012431828,
+            "max_dwell": 89.53199682508794,
+            "mean_flight": 56.78707323055037,
+            "std_flight": 9.807709887985338,
+            "median_flight": 58.24480191108946,
+            "min_flight": 32.8957788129295,
+            "typing_speed_wpm": 78.5097748052961,
+            "dwell_flight_ratio": 1.2385658283368468,
+            "rhythm_consistency": 0.8527255525327252,
+            "total_time_ms": 3178.040040629304,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.792384",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 69.98554760781121,
+            "std_dwell": 8.453548734036147,
+            "median_dwell": 69.67982284713415,
+            "max_dwell": 87.33236423137781,
+            "mean_flight": 55.33202640955141,
+            "std_flight": 11.607345353364837,
+            "median_flight": 54.01517020200046,
+            "min_flight": 35.74208119236019,
+            "typing_speed_wpm": 92.23288519160538,
+            "dwell_flight_ratio": 1.2648289272798134,
+            "rhythm_consistency": 0.8265991292168775,
+            "total_time_ms": 3132.9393504340655,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.801521",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 68.82795735399884,
+            "std_dwell": 7.427872436311102,
+            "median_dwell": 67.11418376939119,
+            "max_dwell": 84.27343491191357,
+            "mean_flight": 52.84371287148311,
+            "std_flight": 15.864119096833674,
+            "median_flight": 52.10270013682111,
+            "min_flight": 23.502507189872897,
+            "typing_speed_wpm": 89.20870207754031,
+            "dwell_flight_ratio": 1.302481480084295,
+            "rhythm_consistency": 0.7691075581580119,
+            "total_time_ms": 3041.7917556370485,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.811030",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 71.20964690921697,
+            "std_dwell": 7.808631350416292,
+            "median_dwell": 70.46128347250558,
+            "max_dwell": 90.07414422322086,
+            "mean_flight": 55.352547105691265,
+            "std_flight": 9.702580432717719,
+            "median_flight": 54.24551318860096,
+            "min_flight": 39.50134065898557,
+            "typing_speed_wpm": 85.46667814464737,
+            "dwell_flight_ratio": 1.286474618290787,
+            "rhythm_consistency": 0.8508560231937251,
+            "total_time_ms": 3164.054850372706,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.820567",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 70.05587026093453,
+            "std_dwell": 8.102020188518297,
+            "median_dwell": 71.17001858684509,
+            "max_dwell": 88.82729922443849,
+            "mean_flight": 53.89365237501608,
+            "std_flight": 9.157427315307956,
+            "median_flight": 55.37169691744549,
+            "min_flight": 35.91844641350553,
+            "typing_speed_wpm": 94.70683071557312,
+            "dwell_flight_ratio": 1.2998909365699418,
+            "rhythm_consistency": 0.8547617683902521,
+            "total_time_ms": 3098.738065898765,
+            "n_keys": 25
+          }
+        }
+      ],
+      "password_hash": "3d5e9ac865d0e0ec9a56fa0f8739772b001269721c5776eb4dfe25c1eab1919f"
+    },
+    "Bob": {
+      "created": "2026-03-30T08:08:52.894721",
+      "samples": [
+        {
+          "timestamp": "2026-03-30T08:08:52.896756",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 166.17598170797945,
+            "std_dwell": 33.842361950565596,
+            "median_dwell": 160.0969625732948,
+            "max_dwell": 226.33772118337276,
+            "mean_flight": 153.61099273610193,
+            "std_flight": 40.484303634893834,
+            "median_flight": 154.91224005765162,
+            "min_flight": 25.662951868790117,
+            "typing_speed_wpm": 43.137358322988334,
+            "dwell_flight_ratio": 1.0817974595962914,
+            "rhythm_consistency": 0.7914204805998404,
+            "total_time_ms": 7994.674361102034,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.898076",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 156.13421645286672,
+            "std_dwell": 30.89343226309095,
+            "median_dwell": 148.99596090781594,
+            "max_dwell": 223.56454012145218,
+            "mean_flight": 138.58030486218692,
+            "std_flight": 35.85847485417643,
+            "median_flight": 143.0558841269886,
+            "min_flight": 62.23717529403541,
+            "typing_speed_wpm": 42.006739374775805,
+            "dwell_flight_ratio": 1.1266695985994297,
+            "rhythm_consistency": 0.7944351885946339,
+            "total_time_ms": 7367.863032876341,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.899376",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 160.3571594120477,
+            "std_dwell": 27.206142617105893,
+            "median_dwell": 165.44863218807473,
+            "max_dwell": 232.25409187800966,
+            "mean_flight": 146.03896519604518,
+            "std_flight": 38.48000226829503,
+            "median_flight": 147.27783404037766,
+            "min_flight": 63.039766395568336,
+            "typing_speed_wpm": 39.580260211715874,
+            "dwell_flight_ratio": 1.0980436570252434,
+            "rhythm_consistency": 0.79145774119004,
+            "total_time_ms": 7659.903115202322,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.900564",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 166.69090516661993,
+            "std_dwell": 36.007061763642945,
+            "median_dwell": 161.20910141081393,
+            "max_dwell": 224.66665431942454,
+            "mean_flight": 145.0621014596032,
+            "std_flight": 56.125016787969784,
+            "median_flight": 155.41113290130838,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 39.95330337933017,
+            "dwell_flight_ratio": 1.1491003059337306,
+            "rhythm_consistency": 0.7210307634164503,
+            "total_time_ms": 7793.8251656555785,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.901885",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 158.24971201614963,
+            "std_dwell": 31.628488766295213,
+            "median_dwell": 163.62245331434627,
+            "max_dwell": 220.15532353258624,
+            "mean_flight": 131.80168014741832,
+            "std_flight": 35.191671945607524,
+            "median_flight": 125.68257373653199,
+            "min_flight": 72.68669706649345,
+            "typing_speed_wpm": 41.20430987581903,
+            "dwell_flight_ratio": 1.2006653620739094,
+            "rhythm_consistency": 0.7892630364949885,
+            "total_time_ms": 7251.284804089199,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.903214",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 169.0465227133419,
+            "std_dwell": 24.374663892822916,
+            "median_dwell": 169.32329832002978,
+            "max_dwell": 224.0594552804455,
+            "mean_flight": 128.04317382368635,
+            "std_flight": 46.80546044887468,
+            "median_flight": 135.28764203502328,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 31.67652534510192,
+            "dwell_flight_ratio": 1.320230650843727,
+            "rhythm_consistency": 0.7323086872047713,
+            "total_time_ms": 7427.242413425705,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.904656",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 157.92222736393,
+            "std_dwell": 25.43215399439865,
+            "median_dwell": 160.4765786192959,
+            "max_dwell": 216.28559272252105,
+            "mean_flight": 133.58242196293912,
+            "std_flight": 45.717767768201455,
+            "median_flight": 131.49580420395588,
+            "min_flight": 40.26036059753139,
+            "typing_speed_wpm": 48.06988691978366,
+            "dwell_flight_ratio": 1.1822081456776077,
+            "rhythm_consistency": 0.7450210853833733,
+            "total_time_ms": 7287.616233171728,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.905975",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 157.668563559983,
+            "std_dwell": 25.847066274234503,
+            "median_dwell": 160.68236867779117,
+            "max_dwell": 210.42315950854544,
+            "mean_flight": 162.31439886339413,
+            "std_flight": 44.19719127775522,
+            "median_flight": 166.47359198816793,
+            "min_flight": 44.344498096764994,
+            "typing_speed_wpm": 36.206432030932746,
+            "dwell_flight_ratio": 0.9713775528484005,
+            "rhythm_consistency": 0.7859820301245721,
+            "total_time_ms": 7999.574060584429,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.907321",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 158.69658682537113,
+            "std_dwell": 28.795726457073496,
+            "median_dwell": 160.74064749866787,
+            "max_dwell": 215.60899944818743,
+            "mean_flight": 137.7128140630002,
+            "std_flight": 51.44286032775827,
+            "median_flight": 146.3131632791869,
+            "min_flight": 40.15218036251146,
+            "typing_speed_wpm": 38.77981640271883,
+            "dwell_flight_ratio": 1.1523734222203272,
+            "rhythm_consistency": 0.7280395605712181,
+            "total_time_ms": 7410.235022209283,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.908755",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 153.26476946627278,
+            "std_dwell": 29.859443225848434,
+            "median_dwell": 154.0177035902969,
+            "max_dwell": 218.85518708957431,
+            "mean_flight": 146.96612535090946,
+            "std_flight": 46.93023400486061,
+            "median_flight": 145.51326500890806,
+            "min_flight": 64.02048212174263,
+            "typing_speed_wpm": 46.57932506616365,
+            "dwell_flight_ratio": 1.0428577952934672,
+            "rhythm_consistency": 0.7579622734496483,
+            "total_time_ms": 7505.772370429557,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.910338",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 156.7550230039478,
+            "std_dwell": 31.9666172528351,
+            "median_dwell": 157.52567039930113,
+            "max_dwell": 235.57676603389802,
+            "mean_flight": 126.07095052143163,
+            "std_flight": 30.570913196134065,
+            "median_flight": 120.27369306598935,
+            "min_flight": 53.30287394927572,
+            "typing_speed_wpm": 49.261466744064876,
+            "dwell_flight_ratio": 1.243387333526132,
+            "rhythm_consistency": 0.8048356137331514,
+            "total_time_ms": 7070.649338134486,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.912033",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 162.67705308166697,
+            "std_dwell": 26.12153275463696,
+            "median_dwell": 165.17858699350512,
+            "max_dwell": 209.61904070430387,
+            "mean_flight": 154.02513501723234,
+            "std_flight": 33.84706410586185,
+            "median_flight": 154.68202821013548,
+            "min_flight": 73.13080276707477,
+            "typing_speed_wpm": 42.02636213299096,
+            "dwell_flight_ratio": 1.0561721180342847,
+            "rhythm_consistency": 0.8198399536288751,
+            "total_time_ms": 7917.554702472483,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.913522",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 162.0637934282702,
+            "std_dwell": 34.71004019895437,
+            "median_dwell": 157.03203163767563,
+            "max_dwell": 245.0285060987319,
+            "mean_flight": 150.02410762552495,
+            "std_flight": 44.53741176788236,
+            "median_flight": 144.36996911541507,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 43.237175713253556,
+            "dwell_flight_ratio": 1.0802516741695776,
+            "rhythm_consistency": 0.771088281450831,
+            "total_time_ms": 7802.1975263448785,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.915057",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 160.48408524016537,
+            "std_dwell": 24.259216800814805,
+            "median_dwell": 160.91055367539283,
+            "max_dwell": 206.4843224130343,
+            "mean_flight": 152.0644335159611,
+            "std_flight": 43.67533404236452,
+            "median_flight": 139.1009532910771,
+            "min_flight": 85.47968937175318,
+            "typing_speed_wpm": 41.37316589235093,
+            "dwell_flight_ratio": 1.0553689743849308,
+            "rhythm_consistency": 0.7768704102024114,
+            "total_time_ms": 7813.712968903162,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.916585",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 169.30496902123517,
+            "std_dwell": 27.892462668897707,
+            "median_dwell": 172.59404388306228,
+            "max_dwell": 223.30468417674783,
+            "mean_flight": 155.21254929810115,
+            "std_flight": 37.38458444521212,
+            "median_flight": 157.88170639843102,
+            "min_flight": 84.13447454967877,
+            "typing_speed_wpm": 38.519312621143214,
+            "dwell_flight_ratio": 1.090794331945854,
+            "rhythm_consistency": 0.8058923114866445,
+            "total_time_ms": 8112.937957983408,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.760550",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 166.17598170797945,
+            "std_dwell": 33.842361950565596,
+            "median_dwell": 160.0969625732948,
+            "max_dwell": 226.33772118337276,
+            "mean_flight": 153.61099273610193,
+            "std_flight": 40.484303634893834,
+            "median_flight": 154.91224005765162,
+            "min_flight": 25.662951868790117,
+            "typing_speed_wpm": 43.137358322988334,
+            "dwell_flight_ratio": 1.0817974595962914,
+            "rhythm_consistency": 0.7914204805998404,
+            "total_time_ms": 7994.674361102034,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.765549",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 156.13421645286672,
+            "std_dwell": 30.89343226309095,
+            "median_dwell": 148.99596090781594,
+            "max_dwell": 223.56454012145218,
+            "mean_flight": 138.58030486218692,
+            "std_flight": 35.85847485417643,
+            "median_flight": 143.0558841269886,
+            "min_flight": 62.23717529403541,
+            "typing_speed_wpm": 42.006739374775805,
+            "dwell_flight_ratio": 1.1266695985994297,
+            "rhythm_consistency": 0.7944351885946339,
+            "total_time_ms": 7367.863032876341,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.770573",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 160.3571594120477,
+            "std_dwell": 27.206142617105893,
+            "median_dwell": 165.44863218807473,
+            "max_dwell": 232.25409187800966,
+            "mean_flight": 146.03896519604518,
+            "std_flight": 38.48000226829503,
+            "median_flight": 147.27783404037766,
+            "min_flight": 63.039766395568336,
+            "typing_speed_wpm": 39.580260211715874,
+            "dwell_flight_ratio": 1.0980436570252434,
+            "rhythm_consistency": 0.79145774119004,
+            "total_time_ms": 7659.903115202322,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.774578",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 166.69090516661993,
+            "std_dwell": 36.007061763642945,
+            "median_dwell": 161.20910141081393,
+            "max_dwell": 224.66665431942454,
+            "mean_flight": 145.0621014596032,
+            "std_flight": 56.125016787969784,
+            "median_flight": 155.41113290130838,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 39.95330337933017,
+            "dwell_flight_ratio": 1.1491003059337306,
+            "rhythm_consistency": 0.7210307634164503,
+            "total_time_ms": 7793.8251656555785,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.779578",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 158.24971201614963,
+            "std_dwell": 31.628488766295213,
+            "median_dwell": 163.62245331434627,
+            "max_dwell": 220.15532353258624,
+            "mean_flight": 131.80168014741832,
+            "std_flight": 35.191671945607524,
+            "median_flight": 125.68257373653199,
+            "min_flight": 72.68669706649345,
+            "typing_speed_wpm": 41.20430987581903,
+            "dwell_flight_ratio": 1.2006653620739094,
+            "rhythm_consistency": 0.7892630364949885,
+            "total_time_ms": 7251.284804089199,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.783578",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 169.0465227133419,
+            "std_dwell": 24.374663892822916,
+            "median_dwell": 169.32329832002978,
+            "max_dwell": 224.0594552804455,
+            "mean_flight": 128.04317382368635,
+            "std_flight": 46.80546044887468,
+            "median_flight": 135.28764203502328,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 31.67652534510192,
+            "dwell_flight_ratio": 1.320230650843727,
+            "rhythm_consistency": 0.7323086872047713,
+            "total_time_ms": 7427.242413425705,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.788719",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 157.92222736393,
+            "std_dwell": 25.43215399439865,
+            "median_dwell": 160.4765786192959,
+            "max_dwell": 216.28559272252105,
+            "mean_flight": 133.58242196293912,
+            "std_flight": 45.717767768201455,
+            "median_flight": 131.49580420395588,
+            "min_flight": 40.26036059753139,
+            "typing_speed_wpm": 48.06988691978366,
+            "dwell_flight_ratio": 1.1822081456776077,
+            "rhythm_consistency": 0.7450210853833733,
+            "total_time_ms": 7287.616233171728,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.793717",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 157.668563559983,
+            "std_dwell": 25.847066274234503,
+            "median_dwell": 160.68236867779117,
+            "max_dwell": 210.42315950854544,
+            "mean_flight": 162.31439886339413,
+            "std_flight": 44.19719127775522,
+            "median_flight": 166.47359198816793,
+            "min_flight": 44.344498096764994,
+            "typing_speed_wpm": 36.206432030932746,
+            "dwell_flight_ratio": 0.9713775528484005,
+            "rhythm_consistency": 0.7859820301245721,
+            "total_time_ms": 7999.574060584429,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.798799",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 158.69658682537113,
+            "std_dwell": 28.795726457073496,
+            "median_dwell": 160.74064749866787,
+            "max_dwell": 215.60899944818743,
+            "mean_flight": 137.7128140630002,
+            "std_flight": 51.44286032775827,
+            "median_flight": 146.3131632791869,
+            "min_flight": 40.15218036251146,
+            "typing_speed_wpm": 38.77981640271883,
+            "dwell_flight_ratio": 1.1523734222203272,
+            "rhythm_consistency": 0.7280395605712181,
+            "total_time_ms": 7410.235022209283,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.803718",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 153.26476946627278,
+            "std_dwell": 29.859443225848434,
+            "median_dwell": 154.0177035902969,
+            "max_dwell": 218.85518708957431,
+            "mean_flight": 146.96612535090946,
+            "std_flight": 46.93023400486061,
+            "median_flight": 145.51326500890806,
+            "min_flight": 64.02048212174263,
+            "typing_speed_wpm": 46.57932506616365,
+            "dwell_flight_ratio": 1.0428577952934672,
+            "rhythm_consistency": 0.7579622734496483,
+            "total_time_ms": 7505.772370429557,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.808719",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 156.7550230039478,
+            "std_dwell": 31.9666172528351,
+            "median_dwell": 157.52567039930113,
+            "max_dwell": 235.57676603389802,
+            "mean_flight": 126.07095052143163,
+            "std_flight": 30.570913196134065,
+            "median_flight": 120.27369306598935,
+            "min_flight": 53.30287394927572,
+            "typing_speed_wpm": 49.261466744064876,
+            "dwell_flight_ratio": 1.243387333526132,
+            "rhythm_consistency": 0.8048356137331514,
+            "total_time_ms": 7070.649338134486,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.813717",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 162.67705308166697,
+            "std_dwell": 26.12153275463696,
+            "median_dwell": 165.17858699350512,
+            "max_dwell": 209.61904070430387,
+            "mean_flight": 154.02513501723234,
+            "std_flight": 33.84706410586185,
+            "median_flight": 154.68202821013548,
+            "min_flight": 73.13080276707477,
+            "typing_speed_wpm": 42.02636213299096,
+            "dwell_flight_ratio": 1.0561721180342847,
+            "rhythm_consistency": 0.8198399536288751,
+            "total_time_ms": 7917.554702472483,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.818721",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 162.0637934282702,
+            "std_dwell": 34.71004019895437,
+            "median_dwell": 157.03203163767563,
+            "max_dwell": 245.0285060987319,
+            "mean_flight": 150.02410762552495,
+            "std_flight": 44.53741176788236,
+            "median_flight": 144.36996911541507,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 43.237175713253556,
+            "dwell_flight_ratio": 1.0802516741695776,
+            "rhythm_consistency": 0.771088281450831,
+            "total_time_ms": 7802.1975263448785,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.823719",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 160.48408524016537,
+            "std_dwell": 24.259216800814805,
+            "median_dwell": 160.91055367539283,
+            "max_dwell": 206.4843224130343,
+            "mean_flight": 152.0644335159611,
+            "std_flight": 43.67533404236452,
+            "median_flight": 139.1009532910771,
+            "min_flight": 85.47968937175318,
+            "typing_speed_wpm": 41.37316589235093,
+            "dwell_flight_ratio": 1.0553689743849308,
+            "rhythm_consistency": 0.7768704102024114,
+            "total_time_ms": 7813.712968903162,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.828716",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 169.30496902123517,
+            "std_dwell": 27.892462668897707,
+            "median_dwell": 172.59404388306228,
+            "max_dwell": 223.30468417674783,
+            "mean_flight": 155.21254929810115,
+            "std_flight": 37.38458444521212,
+            "median_flight": 157.88170639843102,
+            "min_flight": 84.13447454967877,
+            "typing_speed_wpm": 38.519312621143214,
+            "dwell_flight_ratio": 1.090794331945854,
+            "rhythm_consistency": 0.8058923114866445,
+            "total_time_ms": 8112.937957983408,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.449245",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 166.17598170797945,
+            "std_dwell": 33.842361950565596,
+            "median_dwell": 160.0969625732948,
+            "max_dwell": 226.33772118337276,
+            "mean_flight": 153.61099273610193,
+            "std_flight": 40.484303634893834,
+            "median_flight": 154.91224005765162,
+            "min_flight": 25.662951868790117,
+            "typing_speed_wpm": 43.137358322988334,
+            "dwell_flight_ratio": 1.0817974595962914,
+            "rhythm_consistency": 0.7914204805998404,
+            "total_time_ms": 7994.674361102034,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.456246",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 156.13421645286672,
+            "std_dwell": 30.89343226309095,
+            "median_dwell": 148.99596090781594,
+            "max_dwell": 223.56454012145218,
+            "mean_flight": 138.58030486218692,
+            "std_flight": 35.85847485417643,
+            "median_flight": 143.0558841269886,
+            "min_flight": 62.23717529403541,
+            "typing_speed_wpm": 42.006739374775805,
+            "dwell_flight_ratio": 1.1266695985994297,
+            "rhythm_consistency": 0.7944351885946339,
+            "total_time_ms": 7367.863032876341,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.462243",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 160.3571594120477,
+            "std_dwell": 27.206142617105893,
+            "median_dwell": 165.44863218807473,
+            "max_dwell": 232.25409187800966,
+            "mean_flight": 146.03896519604518,
+            "std_flight": 38.48000226829503,
+            "median_flight": 147.27783404037766,
+            "min_flight": 63.039766395568336,
+            "typing_speed_wpm": 39.580260211715874,
+            "dwell_flight_ratio": 1.0980436570252434,
+            "rhythm_consistency": 0.79145774119004,
+            "total_time_ms": 7659.903115202322,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.470246",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 166.69090516661993,
+            "std_dwell": 36.007061763642945,
+            "median_dwell": 161.20910141081393,
+            "max_dwell": 224.66665431942454,
+            "mean_flight": 145.0621014596032,
+            "std_flight": 56.125016787969784,
+            "median_flight": 155.41113290130838,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 39.95330337933017,
+            "dwell_flight_ratio": 1.1491003059337306,
+            "rhythm_consistency": 0.7210307634164503,
+            "total_time_ms": 7793.8251656555785,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.476243",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 158.24971201614963,
+            "std_dwell": 31.628488766295213,
+            "median_dwell": 163.62245331434627,
+            "max_dwell": 220.15532353258624,
+            "mean_flight": 131.80168014741832,
+            "std_flight": 35.191671945607524,
+            "median_flight": 125.68257373653199,
+            "min_flight": 72.68669706649345,
+            "typing_speed_wpm": 41.20430987581903,
+            "dwell_flight_ratio": 1.2006653620739094,
+            "rhythm_consistency": 0.7892630364949885,
+            "total_time_ms": 7251.284804089199,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.483244",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 169.0465227133419,
+            "std_dwell": 24.374663892822916,
+            "median_dwell": 169.32329832002978,
+            "max_dwell": 224.0594552804455,
+            "mean_flight": 128.04317382368635,
+            "std_flight": 46.80546044887468,
+            "median_flight": 135.28764203502328,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 31.67652534510192,
+            "dwell_flight_ratio": 1.320230650843727,
+            "rhythm_consistency": 0.7323086872047713,
+            "total_time_ms": 7427.242413425705,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.490246",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 157.92222736393,
+            "std_dwell": 25.43215399439865,
+            "median_dwell": 160.4765786192959,
+            "max_dwell": 216.28559272252105,
+            "mean_flight": 133.58242196293912,
+            "std_flight": 45.717767768201455,
+            "median_flight": 131.49580420395588,
+            "min_flight": 40.26036059753139,
+            "typing_speed_wpm": 48.06988691978366,
+            "dwell_flight_ratio": 1.1822081456776077,
+            "rhythm_consistency": 0.7450210853833733,
+            "total_time_ms": 7287.616233171728,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.497251",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 157.668563559983,
+            "std_dwell": 25.847066274234503,
+            "median_dwell": 160.68236867779117,
+            "max_dwell": 210.42315950854544,
+            "mean_flight": 162.31439886339413,
+            "std_flight": 44.19719127775522,
+            "median_flight": 166.47359198816793,
+            "min_flight": 44.344498096764994,
+            "typing_speed_wpm": 36.206432030932746,
+            "dwell_flight_ratio": 0.9713775528484005,
+            "rhythm_consistency": 0.7859820301245721,
+            "total_time_ms": 7999.574060584429,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.504244",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 158.69658682537113,
+            "std_dwell": 28.795726457073496,
+            "median_dwell": 160.74064749866787,
+            "max_dwell": 215.60899944818743,
+            "mean_flight": 137.7128140630002,
+            "std_flight": 51.44286032775827,
+            "median_flight": 146.3131632791869,
+            "min_flight": 40.15218036251146,
+            "typing_speed_wpm": 38.77981640271883,
+            "dwell_flight_ratio": 1.1523734222203272,
+            "rhythm_consistency": 0.7280395605712181,
+            "total_time_ms": 7410.235022209283,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.511350",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 153.26476946627278,
+            "std_dwell": 29.859443225848434,
+            "median_dwell": 154.0177035902969,
+            "max_dwell": 218.85518708957431,
+            "mean_flight": 146.96612535090946,
+            "std_flight": 46.93023400486061,
+            "median_flight": 145.51326500890806,
+            "min_flight": 64.02048212174263,
+            "typing_speed_wpm": 46.57932506616365,
+            "dwell_flight_ratio": 1.0428577952934672,
+            "rhythm_consistency": 0.7579622734496483,
+            "total_time_ms": 7505.772370429557,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.519342",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 156.7550230039478,
+            "std_dwell": 31.9666172528351,
+            "median_dwell": 157.52567039930113,
+            "max_dwell": 235.57676603389802,
+            "mean_flight": 126.07095052143163,
+            "std_flight": 30.570913196134065,
+            "median_flight": 120.27369306598935,
+            "min_flight": 53.30287394927572,
+            "typing_speed_wpm": 49.261466744064876,
+            "dwell_flight_ratio": 1.243387333526132,
+            "rhythm_consistency": 0.8048356137331514,
+            "total_time_ms": 7070.649338134486,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.526421",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 162.67705308166697,
+            "std_dwell": 26.12153275463696,
+            "median_dwell": 165.17858699350512,
+            "max_dwell": 209.61904070430387,
+            "mean_flight": 154.02513501723234,
+            "std_flight": 33.84706410586185,
+            "median_flight": 154.68202821013548,
+            "min_flight": 73.13080276707477,
+            "typing_speed_wpm": 42.02636213299096,
+            "dwell_flight_ratio": 1.0561721180342847,
+            "rhythm_consistency": 0.8198399536288751,
+            "total_time_ms": 7917.554702472483,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.533422",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 162.0637934282702,
+            "std_dwell": 34.71004019895437,
+            "median_dwell": 157.03203163767563,
+            "max_dwell": 245.0285060987319,
+            "mean_flight": 150.02410762552495,
+            "std_flight": 44.53741176788236,
+            "median_flight": 144.36996911541507,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 43.237175713253556,
+            "dwell_flight_ratio": 1.0802516741695776,
+            "rhythm_consistency": 0.771088281450831,
+            "total_time_ms": 7802.1975263448785,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.541437",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 160.48408524016537,
+            "std_dwell": 24.259216800814805,
+            "median_dwell": 160.91055367539283,
+            "max_dwell": 206.4843224130343,
+            "mean_flight": 152.0644335159611,
+            "std_flight": 43.67533404236452,
+            "median_flight": 139.1009532910771,
+            "min_flight": 85.47968937175318,
+            "typing_speed_wpm": 41.37316589235093,
+            "dwell_flight_ratio": 1.0553689743849308,
+            "rhythm_consistency": 0.7768704102024114,
+            "total_time_ms": 7813.712968903162,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.549420",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 169.30496902123517,
+            "std_dwell": 27.892462668897707,
+            "median_dwell": 172.59404388306228,
+            "max_dwell": 223.30468417674783,
+            "mean_flight": 155.21254929810115,
+            "std_flight": 37.38458444521212,
+            "median_flight": 157.88170639843102,
+            "min_flight": 84.13447454967877,
+            "typing_speed_wpm": 38.519312621143214,
+            "dwell_flight_ratio": 1.090794331945854,
+            "rhythm_consistency": 0.8058923114866445,
+            "total_time_ms": 8112.937957983408,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.839375",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 166.17598170797945,
+            "std_dwell": 33.842361950565596,
+            "median_dwell": 160.0969625732948,
+            "max_dwell": 226.33772118337276,
+            "mean_flight": 153.61099273610193,
+            "std_flight": 40.484303634893834,
+            "median_flight": 154.91224005765162,
+            "min_flight": 25.662951868790117,
+            "typing_speed_wpm": 43.137358322988334,
+            "dwell_flight_ratio": 1.0817974595962914,
+            "rhythm_consistency": 0.7914204805998404,
+            "total_time_ms": 7994.674361102034,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.848608",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 156.13421645286672,
+            "std_dwell": 30.89343226309095,
+            "median_dwell": 148.99596090781594,
+            "max_dwell": 223.56454012145218,
+            "mean_flight": 138.58030486218692,
+            "std_flight": 35.85847485417643,
+            "median_flight": 143.0558841269886,
+            "min_flight": 62.23717529403541,
+            "typing_speed_wpm": 42.006739374775805,
+            "dwell_flight_ratio": 1.1266695985994297,
+            "rhythm_consistency": 0.7944351885946339,
+            "total_time_ms": 7367.863032876341,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.856930",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 160.3571594120477,
+            "std_dwell": 27.206142617105893,
+            "median_dwell": 165.44863218807473,
+            "max_dwell": 232.25409187800966,
+            "mean_flight": 146.03896519604518,
+            "std_flight": 38.48000226829503,
+            "median_flight": 147.27783404037766,
+            "min_flight": 63.039766395568336,
+            "typing_speed_wpm": 39.580260211715874,
+            "dwell_flight_ratio": 1.0980436570252434,
+            "rhythm_consistency": 0.79145774119004,
+            "total_time_ms": 7659.903115202322,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.866444",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 166.69090516661993,
+            "std_dwell": 36.007061763642945,
+            "median_dwell": 161.20910141081393,
+            "max_dwell": 224.66665431942454,
+            "mean_flight": 145.0621014596032,
+            "std_flight": 56.125016787969784,
+            "median_flight": 155.41113290130838,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 39.95330337933017,
+            "dwell_flight_ratio": 1.1491003059337306,
+            "rhythm_consistency": 0.7210307634164503,
+            "total_time_ms": 7793.8251656555785,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.875968",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 158.24971201614963,
+            "std_dwell": 31.628488766295213,
+            "median_dwell": 163.62245331434627,
+            "max_dwell": 220.15532353258624,
+            "mean_flight": 131.80168014741832,
+            "std_flight": 35.191671945607524,
+            "median_flight": 125.68257373653199,
+            "min_flight": 72.68669706649345,
+            "typing_speed_wpm": 41.20430987581903,
+            "dwell_flight_ratio": 1.2006653620739094,
+            "rhythm_consistency": 0.7892630364949885,
+            "total_time_ms": 7251.284804089199,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.886242",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 169.0465227133419,
+            "std_dwell": 24.374663892822916,
+            "median_dwell": 169.32329832002978,
+            "max_dwell": 224.0594552804455,
+            "mean_flight": 128.04317382368635,
+            "std_flight": 46.80546044887468,
+            "median_flight": 135.28764203502328,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 31.67652534510192,
+            "dwell_flight_ratio": 1.320230650843727,
+            "rhythm_consistency": 0.7323086872047713,
+            "total_time_ms": 7427.242413425705,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.895748",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 157.92222736393,
+            "std_dwell": 25.43215399439865,
+            "median_dwell": 160.4765786192959,
+            "max_dwell": 216.28559272252105,
+            "mean_flight": 133.58242196293912,
+            "std_flight": 45.717767768201455,
+            "median_flight": 131.49580420395588,
+            "min_flight": 40.26036059753139,
+            "typing_speed_wpm": 48.06988691978366,
+            "dwell_flight_ratio": 1.1822081456776077,
+            "rhythm_consistency": 0.7450210853833733,
+            "total_time_ms": 7287.616233171728,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.904258",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 157.668563559983,
+            "std_dwell": 25.847066274234503,
+            "median_dwell": 160.68236867779117,
+            "max_dwell": 210.42315950854544,
+            "mean_flight": 162.31439886339413,
+            "std_flight": 44.19719127775522,
+            "median_flight": 166.47359198816793,
+            "min_flight": 44.344498096764994,
+            "typing_speed_wpm": 36.206432030932746,
+            "dwell_flight_ratio": 0.9713775528484005,
+            "rhythm_consistency": 0.7859820301245721,
+            "total_time_ms": 7999.574060584429,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.913767",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 158.69658682537113,
+            "std_dwell": 28.795726457073496,
+            "median_dwell": 160.74064749866787,
+            "max_dwell": 215.60899944818743,
+            "mean_flight": 137.7128140630002,
+            "std_flight": 51.44286032775827,
+            "median_flight": 146.3131632791869,
+            "min_flight": 40.15218036251146,
+            "typing_speed_wpm": 38.77981640271883,
+            "dwell_flight_ratio": 1.1523734222203272,
+            "rhythm_consistency": 0.7280395605712181,
+            "total_time_ms": 7410.235022209283,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.923445",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 153.26476946627278,
+            "std_dwell": 29.859443225848434,
+            "median_dwell": 154.0177035902969,
+            "max_dwell": 218.85518708957431,
+            "mean_flight": 146.96612535090946,
+            "std_flight": 46.93023400486061,
+            "median_flight": 145.51326500890806,
+            "min_flight": 64.02048212174263,
+            "typing_speed_wpm": 46.57932506616365,
+            "dwell_flight_ratio": 1.0428577952934672,
+            "rhythm_consistency": 0.7579622734496483,
+            "total_time_ms": 7505.772370429557,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.932276",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 156.7550230039478,
+            "std_dwell": 31.9666172528351,
+            "median_dwell": 157.52567039930113,
+            "max_dwell": 235.57676603389802,
+            "mean_flight": 126.07095052143163,
+            "std_flight": 30.570913196134065,
+            "median_flight": 120.27369306598935,
+            "min_flight": 53.30287394927572,
+            "typing_speed_wpm": 49.261466744064876,
+            "dwell_flight_ratio": 1.243387333526132,
+            "rhythm_consistency": 0.8048356137331514,
+            "total_time_ms": 7070.649338134486,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.942799",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 162.67705308166697,
+            "std_dwell": 26.12153275463696,
+            "median_dwell": 165.17858699350512,
+            "max_dwell": 209.61904070430387,
+            "mean_flight": 154.02513501723234,
+            "std_flight": 33.84706410586185,
+            "median_flight": 154.68202821013548,
+            "min_flight": 73.13080276707477,
+            "typing_speed_wpm": 42.02636213299096,
+            "dwell_flight_ratio": 1.0561721180342847,
+            "rhythm_consistency": 0.8198399536288751,
+            "total_time_ms": 7917.554702472483,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.951905",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 162.0637934282702,
+            "std_dwell": 34.71004019895437,
+            "median_dwell": 157.03203163767563,
+            "max_dwell": 245.0285060987319,
+            "mean_flight": 150.02410762552495,
+            "std_flight": 44.53741176788236,
+            "median_flight": 144.36996911541507,
+            "min_flight": 20.0,
+            "typing_speed_wpm": 43.237175713253556,
+            "dwell_flight_ratio": 1.0802516741695776,
+            "rhythm_consistency": 0.771088281450831,
+            "total_time_ms": 7802.1975263448785,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.961421",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 160.48408524016537,
+            "std_dwell": 24.259216800814805,
+            "median_dwell": 160.91055367539283,
+            "max_dwell": 206.4843224130343,
+            "mean_flight": 152.0644335159611,
+            "std_flight": 43.67533404236452,
+            "median_flight": 139.1009532910771,
+            "min_flight": 85.47968937175318,
+            "typing_speed_wpm": 41.37316589235093,
+            "dwell_flight_ratio": 1.0553689743849308,
+            "rhythm_consistency": 0.7768704102024114,
+            "total_time_ms": 7813.712968903162,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.969952",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 169.30496902123517,
+            "std_dwell": 27.892462668897707,
+            "median_dwell": 172.59404388306228,
+            "max_dwell": 223.30468417674783,
+            "mean_flight": 155.21254929810115,
+            "std_flight": 37.38458444521212,
+            "median_flight": 157.88170639843102,
+            "min_flight": 84.13447454967877,
+            "typing_speed_wpm": 38.519312621143214,
+            "dwell_flight_ratio": 1.090794331945854,
+            "rhythm_consistency": 0.8058923114866445,
+            "total_time_ms": 8112.937957983408,
+            "n_keys": 25
+          }
+        }
+      ],
+      "password_hash": "fc6e5ceb0061b7059f2d38619c03c7b2f4f1ca6e0d29be5b2c0ea7f7d903c197"
+    },
+    "Charlie": {
+      "created": "2026-03-30T08:08:52.917825",
+      "samples": [
+        {
+          "timestamp": "2026-03-30T08:08:52.920455",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 111.8158413740543,
+            "std_dwell": 12.358347299298643,
+            "median_dwell": 113.70418036532006,
+            "max_dwell": 135.3103063326505,
+            "mean_flight": 202.35812530600117,
+            "std_flight": 18.300846454078666,
+            "median_flight": 201.50517820975415,
+            "min_flight": 152.74941923305627,
+            "typing_speed_wpm": 44.6145542111276,
+            "dwell_flight_ratio": 0.5525641295844633,
+            "rhythm_consistency": 0.917062758390912,
+            "total_time_ms": 7854.349167001386,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.922046",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 112.86871661627875,
+            "std_dwell": 6.978723577187061,
+            "median_dwell": 111.13802221712979,
+            "max_dwell": 126.15406025719889,
+            "mean_flight": 194.3427128091389,
+            "std_flight": 17.541828232538204,
+            "median_flight": 194.66473121039948,
+            "min_flight": 157.8113639118221,
+            "typing_speed_wpm": 53.67217273051768,
+            "dwell_flight_ratio": 0.5807715400531916,
+            "rhythm_consistency": 0.9172104385421502,
+            "total_time_ms": 7680.285735635442,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.923825",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 112.02258711360888,
+            "std_dwell": 12.480270498528835,
+            "median_dwell": 112.46558217847978,
+            "max_dwell": 132.82444385195055,
+            "mean_flight": 197.570921428796,
+            "std_flight": 20.839718353113472,
+            "median_flight": 195.76128834766922,
+            "min_flight": 147.30975595474513,
+            "typing_speed_wpm": 46.983692863446635,
+            "dwell_flight_ratio": 0.5669993656125226,
+            "rhythm_consistency": 0.9045846925135028,
+            "total_time_ms": 7739.837713560122,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.925473",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 110.10440076449427,
+            "std_dwell": 10.253983891072027,
+            "median_dwell": 111.07247157344639,
+            "max_dwell": 125.44921519392211,
+            "mean_flight": 202.7369224764833,
+            "std_flight": 17.660638036672665,
+            "median_flight": 207.5150533562918,
+            "min_flight": 164.37402550620007,
+            "typing_speed_wpm": 58.62673060769471,
+            "dwell_flight_ratio": 0.5430900273099784,
+            "rhythm_consistency": 0.919869176430297,
+            "total_time_ms": 7821.0330810244395,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.926960",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 103.2129211130267,
+            "std_dwell": 13.357430625234255,
+            "median_dwell": 104.28750777402942,
+            "max_dwell": 125.52073144851614,
+            "mean_flight": 201.17004662759115,
+            "std_flight": 15.209393701874312,
+            "median_flight": 201.53631526493615,
+            "min_flight": 171.49864906186556,
+            "typing_speed_wpm": 51.488605107683505,
+            "dwell_flight_ratio": 0.5130630670086582,
+            "rhythm_consistency": 0.9297096171488564,
+            "total_time_ms": 7609.574193515446,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.928453",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 108.46193607395476,
+            "std_dwell": 12.083772737820674,
+            "median_dwell": 109.64758385966475,
+            "max_dwell": 128.34381612077954,
+            "mean_flight": 195.96737794688192,
+            "std_flight": 18.153017537243997,
+            "median_flight": 198.00387879612748,
+            "min_flight": 143.3501476054277,
+            "typing_speed_wpm": 47.766285507081754,
+            "dwell_flight_ratio": 0.5534693437769729,
+            "rhythm_consistency": 0.9152205118237332,
+            "total_time_ms": 7610.732850520917,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.929974",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 112.83401658525158,
+            "std_dwell": 11.499272055563084,
+            "median_dwell": 111.96515330665578,
+            "max_dwell": 136.40422790918902,
+            "mean_flight": 204.75366695605578,
+            "std_flight": 16.459966890384294,
+            "median_flight": 204.76567250893206,
+            "min_flight": 166.98875763213084,
+            "typing_speed_wpm": 55.76005290289425,
+            "dwell_flight_ratio": 0.5510720186978043,
+            "rhythm_consistency": 0.9255924392896583,
+            "total_time_ms": 7939.692088532684,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.931646",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 110.80812531794592,
+            "std_dwell": 12.485509619455488,
+            "median_dwell": 106.74143669309174,
+            "max_dwell": 138.33730963778467,
+            "mean_flight": 198.88802037719128,
+            "std_flight": 15.53245840103706,
+            "median_flight": 201.51754165098836,
+            "min_flight": 168.5833984012334,
+            "typing_speed_wpm": 54.4415755146612,
+            "dwell_flight_ratio": 0.5571382585426625,
+            "rhythm_consistency": 0.9275607512419464,
+            "total_time_ms": 7742.40364237843,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.933424",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 107.39378432610297,
+            "std_dwell": 8.060138457048339,
+            "median_dwell": 108.42274033997404,
+            "max_dwell": 125.80386643910676,
+            "mean_flight": 201.4418207320559,
+            "std_flight": 15.174601357281375,
+            "median_flight": 198.7100451733568,
+            "min_flight": 170.84504841073544,
+            "typing_speed_wpm": 58.018763893491766,
+            "dwell_flight_ratio": 0.5331255641744364,
+            "rhythm_consistency": 0.9299471332278627,
+            "total_time_ms": 7720.890126453972,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.935351",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 116.36301695771505,
+            "std_dwell": 12.679442618459785,
+            "median_dwell": 118.0615210239477,
+            "max_dwell": 138.2651826975759,
+            "mean_flight": 202.7116913963068,
+            "std_flight": 16.590876505440217,
+            "median_flight": 200.0857008357186,
+            "min_flight": 171.18201100125864,
+            "typing_speed_wpm": 53.71355802998841,
+            "dwell_flight_ratio": 0.5740320953181838,
+            "rhythm_consistency": 0.9243470942261226,
+            "total_time_ms": 7976.8677088505465,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.938374",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 109.95767157731566,
+            "std_dwell": 10.476819494719189,
+            "median_dwell": 107.51857570508349,
+            "max_dwell": 140.89396074626347,
+            "mean_flight": 195.34396953050782,
+            "std_flight": 20.91651501595814,
+            "median_flight": 195.75998975917776,
+            "min_flight": 147.55519691640856,
+            "typing_speed_wpm": 62.84484909611756,
+            "dwell_flight_ratio": 0.5628925829734561,
+            "rhythm_consistency": 0.9032809204149176,
+            "total_time_ms": 7632.541027695587,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.940519",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 111.53450722431205,
+            "std_dwell": 12.032646915921958,
+            "median_dwell": 111.20785433365774,
+            "max_dwell": 137.46488646679592,
+            "mean_flight": 198.67876604395977,
+            "std_flight": 19.297677389209273,
+            "median_flight": 196.36068995819224,
+            "min_flight": 166.79303265362097,
+            "typing_speed_wpm": 48.36094248575798,
+            "dwell_flight_ratio": 0.5613811150791719,
+            "rhythm_consistency": 0.9114689776323198,
+            "total_time_ms": 7755.331831706795,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.942356",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 108.16678891059006,
+            "std_dwell": 12.542143746882767,
+            "median_dwell": 112.08447435208457,
+            "max_dwell": 128.9934215231978,
+            "mean_flight": 205.33143595343722,
+            "std_flight": 15.508298576850947,
+            "median_flight": 204.38317613012057,
+            "min_flight": 175.4352807516275,
+            "typing_speed_wpm": 55.49872955693669,
+            "dwell_flight_ratio": 0.5267911774362641,
+            "rhythm_consistency": 0.9297757778515896,
+            "total_time_ms": 7837.455621600682,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.944459",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 109.3726259763048,
+            "std_dwell": 12.617102189387557,
+            "median_dwell": 108.93444078908597,
+            "max_dwell": 134.67943127813635,
+            "mean_flight": 204.8891585704198,
+            "std_flight": 16.59378030590751,
+            "median_flight": 208.80016960603328,
+            "min_flight": 170.14047580889238,
+            "typing_speed_wpm": 55.911876081110506,
+            "dwell_flight_ratio": 0.5338136324021935,
+            "rhythm_consistency": 0.9250787424526039,
+            "total_time_ms": 7856.544613668115,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.946609",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 110.03527408393128,
+            "std_dwell": 11.8323967070195,
+            "median_dwell": 109.7969599231607,
+            "max_dwell": 145.4734797249937,
+            "mean_flight": 204.10099355064904,
+            "std_flight": 17.503492268124315,
+            "median_flight": 205.9498392625973,
+            "min_flight": 168.97977942591544,
+            "typing_speed_wpm": 55.581040409626006,
+            "dwell_flight_ratio": 0.5391216973994067,
+            "rhythm_consistency": 0.921014720422047,
+            "total_time_ms": 7853.406690864508,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.838720",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 111.8158413740543,
+            "std_dwell": 12.358347299298643,
+            "median_dwell": 113.70418036532006,
+            "max_dwell": 135.3103063326505,
+            "mean_flight": 202.35812530600117,
+            "std_flight": 18.300846454078666,
+            "median_flight": 201.50517820975415,
+            "min_flight": 152.74941923305627,
+            "typing_speed_wpm": 44.6145542111276,
+            "dwell_flight_ratio": 0.5525641295844633,
+            "rhythm_consistency": 0.917062758390912,
+            "total_time_ms": 7854.349167001386,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.843718",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 112.86871661627875,
+            "std_dwell": 6.978723577187061,
+            "median_dwell": 111.13802221712979,
+            "max_dwell": 126.15406025719889,
+            "mean_flight": 194.3427128091389,
+            "std_flight": 17.541828232538204,
+            "median_flight": 194.66473121039948,
+            "min_flight": 157.8113639118221,
+            "typing_speed_wpm": 53.67217273051768,
+            "dwell_flight_ratio": 0.5807715400531916,
+            "rhythm_consistency": 0.9172104385421502,
+            "total_time_ms": 7680.285735635442,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.847934",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 112.02258711360888,
+            "std_dwell": 12.480270498528835,
+            "median_dwell": 112.46558217847978,
+            "max_dwell": 132.82444385195055,
+            "mean_flight": 197.570921428796,
+            "std_flight": 20.839718353113472,
+            "median_flight": 195.76128834766922,
+            "min_flight": 147.30975595474513,
+            "typing_speed_wpm": 46.983692863446635,
+            "dwell_flight_ratio": 0.5669993656125226,
+            "rhythm_consistency": 0.9045846925135028,
+            "total_time_ms": 7739.837713560122,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.852934",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 110.10440076449427,
+            "std_dwell": 10.253983891072027,
+            "median_dwell": 111.07247157344639,
+            "max_dwell": 125.44921519392211,
+            "mean_flight": 202.7369224764833,
+            "std_flight": 17.660638036672665,
+            "median_flight": 207.5150533562918,
+            "min_flight": 164.37402550620007,
+            "typing_speed_wpm": 58.62673060769471,
+            "dwell_flight_ratio": 0.5430900273099784,
+            "rhythm_consistency": 0.919869176430297,
+            "total_time_ms": 7821.0330810244395,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.857934",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 103.2129211130267,
+            "std_dwell": 13.357430625234255,
+            "median_dwell": 104.28750777402942,
+            "max_dwell": 125.52073144851614,
+            "mean_flight": 201.17004662759115,
+            "std_flight": 15.209393701874312,
+            "median_flight": 201.53631526493615,
+            "min_flight": 171.49864906186556,
+            "typing_speed_wpm": 51.488605107683505,
+            "dwell_flight_ratio": 0.5130630670086582,
+            "rhythm_consistency": 0.9297096171488564,
+            "total_time_ms": 7609.574193515446,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.862934",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 108.46193607395476,
+            "std_dwell": 12.083772737820674,
+            "median_dwell": 109.64758385966475,
+            "max_dwell": 128.34381612077954,
+            "mean_flight": 195.96737794688192,
+            "std_flight": 18.153017537243997,
+            "median_flight": 198.00387879612748,
+            "min_flight": 143.3501476054277,
+            "typing_speed_wpm": 47.766285507081754,
+            "dwell_flight_ratio": 0.5534693437769729,
+            "rhythm_consistency": 0.9152205118237332,
+            "total_time_ms": 7610.732850520917,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.867934",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 112.83401658525158,
+            "std_dwell": 11.499272055563084,
+            "median_dwell": 111.96515330665578,
+            "max_dwell": 136.40422790918902,
+            "mean_flight": 204.75366695605578,
+            "std_flight": 16.459966890384294,
+            "median_flight": 204.76567250893206,
+            "min_flight": 166.98875763213084,
+            "typing_speed_wpm": 55.76005290289425,
+            "dwell_flight_ratio": 0.5510720186978043,
+            "rhythm_consistency": 0.9255924392896583,
+            "total_time_ms": 7939.692088532684,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.873936",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 110.80812531794592,
+            "std_dwell": 12.485509619455488,
+            "median_dwell": 106.74143669309174,
+            "max_dwell": 138.33730963778467,
+            "mean_flight": 198.88802037719128,
+            "std_flight": 15.53245840103706,
+            "median_flight": 201.51754165098836,
+            "min_flight": 168.5833984012334,
+            "typing_speed_wpm": 54.4415755146612,
+            "dwell_flight_ratio": 0.5571382585426625,
+            "rhythm_consistency": 0.9275607512419464,
+            "total_time_ms": 7742.40364237843,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.878935",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 107.39378432610297,
+            "std_dwell": 8.060138457048339,
+            "median_dwell": 108.42274033997404,
+            "max_dwell": 125.80386643910676,
+            "mean_flight": 201.4418207320559,
+            "std_flight": 15.174601357281375,
+            "median_flight": 198.7100451733568,
+            "min_flight": 170.84504841073544,
+            "typing_speed_wpm": 58.018763893491766,
+            "dwell_flight_ratio": 0.5331255641744364,
+            "rhythm_consistency": 0.9299471332278627,
+            "total_time_ms": 7720.890126453972,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.884936",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 116.36301695771505,
+            "std_dwell": 12.679442618459785,
+            "median_dwell": 118.0615210239477,
+            "max_dwell": 138.2651826975759,
+            "mean_flight": 202.7116913963068,
+            "std_flight": 16.590876505440217,
+            "median_flight": 200.0857008357186,
+            "min_flight": 171.18201100125864,
+            "typing_speed_wpm": 53.71355802998841,
+            "dwell_flight_ratio": 0.5740320953181838,
+            "rhythm_consistency": 0.9243470942261226,
+            "total_time_ms": 7976.8677088505465,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.889934",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 109.95767157731566,
+            "std_dwell": 10.476819494719189,
+            "median_dwell": 107.51857570508349,
+            "max_dwell": 140.89396074626347,
+            "mean_flight": 195.34396953050782,
+            "std_flight": 20.91651501595814,
+            "median_flight": 195.75998975917776,
+            "min_flight": 147.55519691640856,
+            "typing_speed_wpm": 62.84484909611756,
+            "dwell_flight_ratio": 0.5628925829734561,
+            "rhythm_consistency": 0.9032809204149176,
+            "total_time_ms": 7632.541027695587,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.894934",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 111.53450722431205,
+            "std_dwell": 12.032646915921958,
+            "median_dwell": 111.20785433365774,
+            "max_dwell": 137.46488646679592,
+            "mean_flight": 198.67876604395977,
+            "std_flight": 19.297677389209273,
+            "median_flight": 196.36068995819224,
+            "min_flight": 166.79303265362097,
+            "typing_speed_wpm": 48.36094248575798,
+            "dwell_flight_ratio": 0.5613811150791719,
+            "rhythm_consistency": 0.9114689776323198,
+            "total_time_ms": 7755.331831706795,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.900935",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 108.16678891059006,
+            "std_dwell": 12.542143746882767,
+            "median_dwell": 112.08447435208457,
+            "max_dwell": 128.9934215231978,
+            "mean_flight": 205.33143595343722,
+            "std_flight": 15.508298576850947,
+            "median_flight": 204.38317613012057,
+            "min_flight": 175.4352807516275,
+            "typing_speed_wpm": 55.49872955693669,
+            "dwell_flight_ratio": 0.5267911774362641,
+            "rhythm_consistency": 0.9297757778515896,
+            "total_time_ms": 7837.455621600682,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.905935",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 109.3726259763048,
+            "std_dwell": 12.617102189387557,
+            "median_dwell": 108.93444078908597,
+            "max_dwell": 134.67943127813635,
+            "mean_flight": 204.8891585704198,
+            "std_flight": 16.59378030590751,
+            "median_flight": 208.80016960603328,
+            "min_flight": 170.14047580889238,
+            "typing_speed_wpm": 55.911876081110506,
+            "dwell_flight_ratio": 0.5338136324021935,
+            "rhythm_consistency": 0.9250787424526039,
+            "total_time_ms": 7856.544613668115,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.910935",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 110.03527408393128,
+            "std_dwell": 11.8323967070195,
+            "median_dwell": 109.7969599231607,
+            "max_dwell": 145.4734797249937,
+            "mean_flight": 204.10099355064904,
+            "std_flight": 17.503492268124315,
+            "median_flight": 205.9498392625973,
+            "min_flight": 168.97977942591544,
+            "typing_speed_wpm": 55.581040409626006,
+            "dwell_flight_ratio": 0.5391216973994067,
+            "rhythm_consistency": 0.921014720422047,
+            "total_time_ms": 7853.406690864508,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.564425",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 111.8158413740543,
+            "std_dwell": 12.358347299298643,
+            "median_dwell": 113.70418036532006,
+            "max_dwell": 135.3103063326505,
+            "mean_flight": 202.35812530600117,
+            "std_flight": 18.300846454078666,
+            "median_flight": 201.50517820975415,
+            "min_flight": 152.74941923305627,
+            "typing_speed_wpm": 44.6145542111276,
+            "dwell_flight_ratio": 0.5525641295844633,
+            "rhythm_consistency": 0.917062758390912,
+            "total_time_ms": 7854.349167001386,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.574582",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 112.86871661627875,
+            "std_dwell": 6.978723577187061,
+            "median_dwell": 111.13802221712979,
+            "max_dwell": 126.15406025719889,
+            "mean_flight": 194.3427128091389,
+            "std_flight": 17.541828232538204,
+            "median_flight": 194.66473121039948,
+            "min_flight": 157.8113639118221,
+            "typing_speed_wpm": 53.67217273051768,
+            "dwell_flight_ratio": 0.5807715400531916,
+            "rhythm_consistency": 0.9172104385421502,
+            "total_time_ms": 7680.285735635442,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.581703",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 112.02258711360888,
+            "std_dwell": 12.480270498528835,
+            "median_dwell": 112.46558217847978,
+            "max_dwell": 132.82444385195055,
+            "mean_flight": 197.570921428796,
+            "std_flight": 20.839718353113472,
+            "median_flight": 195.76128834766922,
+            "min_flight": 147.30975595474513,
+            "typing_speed_wpm": 46.983692863446635,
+            "dwell_flight_ratio": 0.5669993656125226,
+            "rhythm_consistency": 0.9045846925135028,
+            "total_time_ms": 7739.837713560122,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.590702",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 110.10440076449427,
+            "std_dwell": 10.253983891072027,
+            "median_dwell": 111.07247157344639,
+            "max_dwell": 125.44921519392211,
+            "mean_flight": 202.7369224764833,
+            "std_flight": 17.660638036672665,
+            "median_flight": 207.5150533562918,
+            "min_flight": 164.37402550620007,
+            "typing_speed_wpm": 58.62673060769471,
+            "dwell_flight_ratio": 0.5430900273099784,
+            "rhythm_consistency": 0.919869176430297,
+            "total_time_ms": 7821.0330810244395,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.599377",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 103.2129211130267,
+            "std_dwell": 13.357430625234255,
+            "median_dwell": 104.28750777402942,
+            "max_dwell": 125.52073144851614,
+            "mean_flight": 201.17004662759115,
+            "std_flight": 15.209393701874312,
+            "median_flight": 201.53631526493615,
+            "min_flight": 171.49864906186556,
+            "typing_speed_wpm": 51.488605107683505,
+            "dwell_flight_ratio": 0.5130630670086582,
+            "rhythm_consistency": 0.9297096171488564,
+            "total_time_ms": 7609.574193515446,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.607764",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 108.46193607395476,
+            "std_dwell": 12.083772737820674,
+            "median_dwell": 109.64758385966475,
+            "max_dwell": 128.34381612077954,
+            "mean_flight": 195.96737794688192,
+            "std_flight": 18.153017537243997,
+            "median_flight": 198.00387879612748,
+            "min_flight": 143.3501476054277,
+            "typing_speed_wpm": 47.766285507081754,
+            "dwell_flight_ratio": 0.5534693437769729,
+            "rhythm_consistency": 0.9152205118237332,
+            "total_time_ms": 7610.732850520917,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.616966",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 112.83401658525158,
+            "std_dwell": 11.499272055563084,
+            "median_dwell": 111.96515330665578,
+            "max_dwell": 136.40422790918902,
+            "mean_flight": 204.75366695605578,
+            "std_flight": 16.459966890384294,
+            "median_flight": 204.76567250893206,
+            "min_flight": 166.98875763213084,
+            "typing_speed_wpm": 55.76005290289425,
+            "dwell_flight_ratio": 0.5510720186978043,
+            "rhythm_consistency": 0.9255924392896583,
+            "total_time_ms": 7939.692088532684,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.624357",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 110.80812531794592,
+            "std_dwell": 12.485509619455488,
+            "median_dwell": 106.74143669309174,
+            "max_dwell": 138.33730963778467,
+            "mean_flight": 198.88802037719128,
+            "std_flight": 15.53245840103706,
+            "median_flight": 201.51754165098836,
+            "min_flight": 168.5833984012334,
+            "typing_speed_wpm": 54.4415755146612,
+            "dwell_flight_ratio": 0.5571382585426625,
+            "rhythm_consistency": 0.9275607512419464,
+            "total_time_ms": 7742.40364237843,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.637370",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 107.39378432610297,
+            "std_dwell": 8.060138457048339,
+            "median_dwell": 108.42274033997404,
+            "max_dwell": 125.80386643910676,
+            "mean_flight": 201.4418207320559,
+            "std_flight": 15.174601357281375,
+            "median_flight": 198.7100451733568,
+            "min_flight": 170.84504841073544,
+            "typing_speed_wpm": 58.018763893491766,
+            "dwell_flight_ratio": 0.5331255641744364,
+            "rhythm_consistency": 0.9299471332278627,
+            "total_time_ms": 7720.890126453972,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.649371",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 116.36301695771505,
+            "std_dwell": 12.679442618459785,
+            "median_dwell": 118.0615210239477,
+            "max_dwell": 138.2651826975759,
+            "mean_flight": 202.7116913963068,
+            "std_flight": 16.590876505440217,
+            "median_flight": 200.0857008357186,
+            "min_flight": 171.18201100125864,
+            "typing_speed_wpm": 53.71355802998841,
+            "dwell_flight_ratio": 0.5740320953181838,
+            "rhythm_consistency": 0.9243470942261226,
+            "total_time_ms": 7976.8677088505465,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.657371",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 109.95767157731566,
+            "std_dwell": 10.476819494719189,
+            "median_dwell": 107.51857570508349,
+            "max_dwell": 140.89396074626347,
+            "mean_flight": 195.34396953050782,
+            "std_flight": 20.91651501595814,
+            "median_flight": 195.75998975917776,
+            "min_flight": 147.55519691640856,
+            "typing_speed_wpm": 62.84484909611756,
+            "dwell_flight_ratio": 0.5628925829734561,
+            "rhythm_consistency": 0.9032809204149176,
+            "total_time_ms": 7632.541027695587,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.665441",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 111.53450722431205,
+            "std_dwell": 12.032646915921958,
+            "median_dwell": 111.20785433365774,
+            "max_dwell": 137.46488646679592,
+            "mean_flight": 198.67876604395977,
+            "std_flight": 19.297677389209273,
+            "median_flight": 196.36068995819224,
+            "min_flight": 166.79303265362097,
+            "typing_speed_wpm": 48.36094248575798,
+            "dwell_flight_ratio": 0.5613811150791719,
+            "rhythm_consistency": 0.9114689776323198,
+            "total_time_ms": 7755.331831706795,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.674100",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 108.16678891059006,
+            "std_dwell": 12.542143746882767,
+            "median_dwell": 112.08447435208457,
+            "max_dwell": 128.9934215231978,
+            "mean_flight": 205.33143595343722,
+            "std_flight": 15.508298576850947,
+            "median_flight": 204.38317613012057,
+            "min_flight": 175.4352807516275,
+            "typing_speed_wpm": 55.49872955693669,
+            "dwell_flight_ratio": 0.5267911774362641,
+            "rhythm_consistency": 0.9297757778515896,
+            "total_time_ms": 7837.455621600682,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.683107",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 109.3726259763048,
+            "std_dwell": 12.617102189387557,
+            "median_dwell": 108.93444078908597,
+            "max_dwell": 134.67943127813635,
+            "mean_flight": 204.8891585704198,
+            "std_flight": 16.59378030590751,
+            "median_flight": 208.80016960603328,
+            "min_flight": 170.14047580889238,
+            "typing_speed_wpm": 55.911876081110506,
+            "dwell_flight_ratio": 0.5338136324021935,
+            "rhythm_consistency": 0.9250787424526039,
+            "total_time_ms": 7856.544613668115,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.692105",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 110.03527408393128,
+            "std_dwell": 11.8323967070195,
+            "median_dwell": 109.7969599231607,
+            "max_dwell": 145.4734797249937,
+            "mean_flight": 204.10099355064904,
+            "std_flight": 17.503492268124315,
+            "median_flight": 205.9498392625973,
+            "min_flight": 168.97977942591544,
+            "typing_speed_wpm": 55.581040409626006,
+            "dwell_flight_ratio": 0.5391216973994067,
+            "rhythm_consistency": 0.921014720422047,
+            "total_time_ms": 7853.406690864508,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.989601",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 111.8158413740543,
+            "std_dwell": 12.358347299298643,
+            "median_dwell": 113.70418036532006,
+            "max_dwell": 135.3103063326505,
+            "mean_flight": 202.35812530600117,
+            "std_flight": 18.300846454078666,
+            "median_flight": 201.50517820975415,
+            "min_flight": 152.74941923305627,
+            "typing_speed_wpm": 44.6145542111276,
+            "dwell_flight_ratio": 0.5525641295844633,
+            "rhythm_consistency": 0.917062758390912,
+            "total_time_ms": 7854.349167001386,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:25.999114",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 112.86871661627875,
+            "std_dwell": 6.978723577187061,
+            "median_dwell": 111.13802221712979,
+            "max_dwell": 126.15406025719889,
+            "mean_flight": 194.3427128091389,
+            "std_flight": 17.541828232538204,
+            "median_flight": 194.66473121039948,
+            "min_flight": 157.8113639118221,
+            "typing_speed_wpm": 53.67217273051768,
+            "dwell_flight_ratio": 0.5807715400531916,
+            "rhythm_consistency": 0.9172104385421502,
+            "total_time_ms": 7680.285735635442,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.008630",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 112.02258711360888,
+            "std_dwell": 12.480270498528835,
+            "median_dwell": 112.46558217847978,
+            "max_dwell": 132.82444385195055,
+            "mean_flight": 197.570921428796,
+            "std_flight": 20.839718353113472,
+            "median_flight": 195.76128834766922,
+            "min_flight": 147.30975595474513,
+            "typing_speed_wpm": 46.983692863446635,
+            "dwell_flight_ratio": 0.5669993656125226,
+            "rhythm_consistency": 0.9045846925135028,
+            "total_time_ms": 7739.837713560122,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.019160",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 110.10440076449427,
+            "std_dwell": 10.253983891072027,
+            "median_dwell": 111.07247157344639,
+            "max_dwell": 125.44921519392211,
+            "mean_flight": 202.7369224764833,
+            "std_flight": 17.660638036672665,
+            "median_flight": 207.5150533562918,
+            "min_flight": 164.37402550620007,
+            "typing_speed_wpm": 58.62673060769471,
+            "dwell_flight_ratio": 0.5430900273099784,
+            "rhythm_consistency": 0.919869176430297,
+            "total_time_ms": 7821.0330810244395,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.028531",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 103.2129211130267,
+            "std_dwell": 13.357430625234255,
+            "median_dwell": 104.28750777402942,
+            "max_dwell": 125.52073144851614,
+            "mean_flight": 201.17004662759115,
+            "std_flight": 15.209393701874312,
+            "median_flight": 201.53631526493615,
+            "min_flight": 171.49864906186556,
+            "typing_speed_wpm": 51.488605107683505,
+            "dwell_flight_ratio": 0.5130630670086582,
+            "rhythm_consistency": 0.9297096171488564,
+            "total_time_ms": 7609.574193515446,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.039040",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 108.46193607395476,
+            "std_dwell": 12.083772737820674,
+            "median_dwell": 109.64758385966475,
+            "max_dwell": 128.34381612077954,
+            "mean_flight": 195.96737794688192,
+            "std_flight": 18.153017537243997,
+            "median_flight": 198.00387879612748,
+            "min_flight": 143.3501476054277,
+            "typing_speed_wpm": 47.766285507081754,
+            "dwell_flight_ratio": 0.5534693437769729,
+            "rhythm_consistency": 0.9152205118237332,
+            "total_time_ms": 7610.732850520917,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.049058",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 112.83401658525158,
+            "std_dwell": 11.499272055563084,
+            "median_dwell": 111.96515330665578,
+            "max_dwell": 136.40422790918902,
+            "mean_flight": 204.75366695605578,
+            "std_flight": 16.459966890384294,
+            "median_flight": 204.76567250893206,
+            "min_flight": 166.98875763213084,
+            "typing_speed_wpm": 55.76005290289425,
+            "dwell_flight_ratio": 0.5510720186978043,
+            "rhythm_consistency": 0.9255924392896583,
+            "total_time_ms": 7939.692088532684,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.059902",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 110.80812531794592,
+            "std_dwell": 12.485509619455488,
+            "median_dwell": 106.74143669309174,
+            "max_dwell": 138.33730963778467,
+            "mean_flight": 198.88802037719128,
+            "std_flight": 15.53245840103706,
+            "median_flight": 201.51754165098836,
+            "min_flight": 168.5833984012334,
+            "typing_speed_wpm": 54.4415755146612,
+            "dwell_flight_ratio": 0.5571382585426625,
+            "rhythm_consistency": 0.9275607512419464,
+            "total_time_ms": 7742.40364237843,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.070529",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 107.39378432610297,
+            "std_dwell": 8.060138457048339,
+            "median_dwell": 108.42274033997404,
+            "max_dwell": 125.80386643910676,
+            "mean_flight": 201.4418207320559,
+            "std_flight": 15.174601357281375,
+            "median_flight": 198.7100451733568,
+            "min_flight": 170.84504841073544,
+            "typing_speed_wpm": 58.018763893491766,
+            "dwell_flight_ratio": 0.5331255641744364,
+            "rhythm_consistency": 0.9299471332278627,
+            "total_time_ms": 7720.890126453972,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.081041",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 116.36301695771505,
+            "std_dwell": 12.679442618459785,
+            "median_dwell": 118.0615210239477,
+            "max_dwell": 138.2651826975759,
+            "mean_flight": 202.7116913963068,
+            "std_flight": 16.590876505440217,
+            "median_flight": 200.0857008357186,
+            "min_flight": 171.18201100125864,
+            "typing_speed_wpm": 53.71355802998841,
+            "dwell_flight_ratio": 0.5740320953181838,
+            "rhythm_consistency": 0.9243470942261226,
+            "total_time_ms": 7976.8677088505465,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.091057",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 109.95767157731566,
+            "std_dwell": 10.476819494719189,
+            "median_dwell": 107.51857570508349,
+            "max_dwell": 140.89396074626347,
+            "mean_flight": 195.34396953050782,
+            "std_flight": 20.91651501595814,
+            "median_flight": 195.75998975917776,
+            "min_flight": 147.55519691640856,
+            "typing_speed_wpm": 62.84484909611756,
+            "dwell_flight_ratio": 0.5628925829734561,
+            "rhythm_consistency": 0.9032809204149176,
+            "total_time_ms": 7632.541027695587,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.100936",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 111.53450722431205,
+            "std_dwell": 12.032646915921958,
+            "median_dwell": 111.20785433365774,
+            "max_dwell": 137.46488646679592,
+            "mean_flight": 198.67876604395977,
+            "std_flight": 19.297677389209273,
+            "median_flight": 196.36068995819224,
+            "min_flight": 166.79303265362097,
+            "typing_speed_wpm": 48.36094248575798,
+            "dwell_flight_ratio": 0.5613811150791719,
+            "rhythm_consistency": 0.9114689776323198,
+            "total_time_ms": 7755.331831706795,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.110493",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 108.16678891059006,
+            "std_dwell": 12.542143746882767,
+            "median_dwell": 112.08447435208457,
+            "max_dwell": 128.9934215231978,
+            "mean_flight": 205.33143595343722,
+            "std_flight": 15.508298576850947,
+            "median_flight": 204.38317613012057,
+            "min_flight": 175.4352807516275,
+            "typing_speed_wpm": 55.49872955693669,
+            "dwell_flight_ratio": 0.5267911774362641,
+            "rhythm_consistency": 0.9297757778515896,
+            "total_time_ms": 7837.455621600682,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.120996",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 109.3726259763048,
+            "std_dwell": 12.617102189387557,
+            "median_dwell": 108.93444078908597,
+            "max_dwell": 134.67943127813635,
+            "mean_flight": 204.8891585704198,
+            "std_flight": 16.59378030590751,
+            "median_flight": 208.80016960603328,
+            "min_flight": 170.14047580889238,
+            "typing_speed_wpm": 55.911876081110506,
+            "dwell_flight_ratio": 0.5338136324021935,
+            "rhythm_consistency": 0.9250787424526039,
+            "total_time_ms": 7856.544613668115,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.131545",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 110.03527408393128,
+            "std_dwell": 11.8323967070195,
+            "median_dwell": 109.7969599231607,
+            "max_dwell": 145.4734797249937,
+            "mean_flight": 204.10099355064904,
+            "std_flight": 17.503492268124315,
+            "median_flight": 205.9498392625973,
+            "min_flight": 168.97977942591544,
+            "typing_speed_wpm": 55.581040409626006,
+            "dwell_flight_ratio": 0.5391216973994067,
+            "rhythm_consistency": 0.921014720422047,
+            "total_time_ms": 7853.406690864508,
+            "n_keys": 25
+          }
+        }
+      ],
+      "password_hash": "add2a3bedcb093b9a0bdc7031889186844ef3000abd2f294d7987bfddae3615a"
+    },
+    "Diana": {
+      "created": "2026-03-30T08:08:52.948305",
+      "samples": [
+        {
+          "timestamp": "2026-03-30T08:08:52.952155",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.76065248033046,
+            "std_dwell": 5.955861678522658,
+            "median_dwell": 95.76898284643218,
+            "max_dwell": 105.61235376855987,
+            "mean_flight": 71.30091337861734,
+            "std_flight": 6.905979871580432,
+            "median_flight": 72.29580086345678,
+            "min_flight": 58.76713638399079,
+            "typing_speed_wpm": 76.48740213757615,
+            "dwell_flight_ratio": 1.3290243839814335,
+            "rhythm_consistency": 0.9116960208419611,
+            "total_time_ms": 4151.539146473695,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.954415",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.53866061869243,
+            "std_dwell": 4.9579155702050715,
+            "median_dwell": 95.80334635930181,
+            "max_dwell": 108.17708601456455,
+            "mean_flight": 68.93670067439541,
+            "std_flight": 9.639852506959098,
+            "median_flight": 69.35512816824189,
+            "min_flight": 50.42398444776448,
+            "typing_speed_wpm": 78.95983729193253,
+            "dwell_flight_ratio": 1.4003957206288085,
+            "rhythm_consistency": 0.8773189696332144,
+            "total_time_ms": 4136.884032327196,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.976993",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.02830614729112,
+            "std_dwell": 4.080356832625965,
+            "median_dwell": 94.66447175392541,
+            "max_dwell": 101.58738323896746,
+            "mean_flight": 71.47448429788568,
+            "std_flight": 6.376649608155262,
+            "median_flight": 71.3316969876657,
+            "min_flight": 56.11878048618971,
+            "typing_speed_wpm": 77.64359993983574,
+            "dwell_flight_ratio": 1.3155506761742752,
+            "rhythm_consistency": 0.9180917568156259,
+            "total_time_ms": 4137.56976112942,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.979354",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.98181605907057,
+            "std_dwell": 5.995220206992066,
+            "median_dwell": 96.72818936452165,
+            "max_dwell": 106.06940062916499,
+            "mean_flight": 69.35206740808724,
+            "std_flight": 6.710475436217071,
+            "median_flight": 68.52012691108452,
+            "min_flight": 52.59039674100174,
+            "typing_speed_wpm": 76.5894189743536,
+            "dwell_flight_ratio": 1.383979160913637,
+            "rhythm_consistency": 0.9117768722253603,
+            "total_time_ms": 4133.347086678945,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.981390",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 93.3633742417938,
+            "std_dwell": 4.175479856939126,
+            "median_dwell": 92.6953728773799,
+            "max_dwell": 102.23582953757386,
+            "mean_flight": 72.83583411325155,
+            "std_flight": 5.951744409758276,
+            "median_flight": 72.25575056002839,
+            "min_flight": 61.991755712190745,
+            "typing_speed_wpm": 74.86132628889534,
+            "dwell_flight_ratio": 1.2818329793082925,
+            "rhythm_consistency": 0.9244583407520252,
+            "total_time_ms": 4154.9802088761335,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.983490",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.10994296981056,
+            "std_dwell": 5.859203883814623,
+            "median_dwell": 95.51985406352702,
+            "max_dwell": 111.0442648089121,
+            "mean_flight": 69.18996364654606,
+            "std_flight": 6.434380583840398,
+            "median_flight": 68.83099927494725,
+            "min_flight": 57.58414578793344,
+            "typing_speed_wpm": 74.95746473203585,
+            "dwell_flight_ratio": 1.3890734711291952,
+            "rhythm_consistency": 0.9149165437489504,
+            "total_time_ms": 4132.497665408916,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.985664",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.59627548348838,
+            "std_dwell": 4.998814271747948,
+            "median_dwell": 96.17148373148697,
+            "max_dwell": 105.7135713143784,
+            "mean_flight": 73.12762780388881,
+            "std_flight": 7.318193548804826,
+            "median_flight": 71.56717521054625,
+            "min_flight": 61.762934804724935,
+            "typing_speed_wpm": 69.32180476136342,
+            "dwell_flight_ratio": 1.3072525166528748,
+            "rhythm_consistency": 0.909029537821236,
+            "total_time_ms": 4218.0975821844295,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.987610",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.12882743249281,
+            "std_dwell": 5.052981391668025,
+            "median_dwell": 93.97209382426325,
+            "max_dwell": 103.81115988362444,
+            "mean_flight": 69.67282356324569,
+            "std_flight": 5.874390940452319,
+            "median_flight": 70.76299431754053,
+            "min_flight": 56.874179974297434,
+            "typing_speed_wpm": 73.33939336037528,
+            "dwell_flight_ratio": 1.3510120965177639,
+            "rhythm_consistency": 0.922242123961238,
+            "total_time_ms": 4095.0412748934627,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.989748",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.34258520901915,
+            "std_dwell": 4.595398999036907,
+            "median_dwell": 95.67974999220617,
+            "max_dwell": 101.15830225161612,
+            "mean_flight": 68.58570280240612,
+            "std_flight": 8.980032288407239,
+            "median_flight": 68.1482553890657,
+            "min_flight": 54.79901208998336,
+            "typing_speed_wpm": 76.55209086791788,
+            "dwell_flight_ratio": 1.3901233247357545,
+            "rhythm_consistency": 0.8842268138386945,
+            "total_time_ms": 4098.207200285631,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.991839",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.00889264466845,
+            "std_dwell": 5.751212926360699,
+            "median_dwell": 97.03524248867475,
+            "max_dwell": 109.56093759017675,
+            "mean_flight": 72.3316210809798,
+            "std_flight": 6.758190615561302,
+            "median_flight": 73.1092609914246,
+            "min_flight": 58.66573317203491,
+            "typing_speed_wpm": 77.90795219376565,
+            "dwell_flight_ratio": 1.3273433003413604,
+            "rhythm_consistency": 0.9145504272852268,
+            "total_time_ms": 4208.512843141207,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.993992",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 93.51415653288903,
+            "std_dwell": 3.4433939928296127,
+            "median_dwell": 92.89076689852132,
+            "max_dwell": 100.5317426415996,
+            "mean_flight": 68.79314901072972,
+            "std_flight": 8.110913035076049,
+            "median_flight": 69.27816252832481,
+            "min_flight": 51.30141484863006,
+            "typing_speed_wpm": 79.01674523922574,
+            "dwell_flight_ratio": 1.3593527535467749,
+            "rhythm_consistency": 0.8945320595647469,
+            "total_time_ms": 4057.6826385904687,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.996149",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.61870847869726,
+            "std_dwell": 5.076583034838045,
+            "median_dwell": 96.40313236747583,
+            "max_dwell": 108.33109384327061,
+            "mean_flight": 71.1629289759542,
+            "std_flight": 8.307445810717963,
+            "median_flight": 70.51547998982333,
+            "min_flight": 48.1351156372298,
+            "typing_speed_wpm": 72.73788492293582,
+            "dwell_flight_ratio": 1.3577112391108088,
+            "rhythm_consistency": 0.8954648718718362,
+            "total_time_ms": 4194.540936366287,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:52.998193",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.90139217346173,
+            "std_dwell": 5.3324755994887845,
+            "median_dwell": 96.29070071069532,
+            "max_dwell": 104.94641682277397,
+            "mean_flight": 71.0886841285483,
+            "std_flight": 8.751304048217403,
+            "median_flight": 71.38185095195067,
+            "min_flight": 50.86900973033309,
+            "typing_speed_wpm": 72.1025556655546,
+            "dwell_flight_ratio": 1.3490387865394313,
+            "rhythm_consistency": 0.8903894621221383,
+            "total_time_ms": 4174.7519075502505,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:53.000363",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.83993334766045,
+            "std_dwell": 5.217182365448374,
+            "median_dwell": 94.30049929566215,
+            "max_dwell": 104.69886561118635,
+            "mean_flight": 67.25805073940722,
+            "std_flight": 8.583965440829012,
+            "median_flight": 67.50213014028907,
+            "min_flight": 46.540422023843846,
+            "typing_speed_wpm": 71.37236852191573,
+            "dwell_flight_ratio": 1.4100904249384185,
+            "rhythm_consistency": 0.8868178105862919,
+            "total_time_ms": 4052.4496021766918,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-03-30T08:08:53.002522",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.78374528130561,
+            "std_dwell": 5.432318563635102,
+            "median_dwell": 94.62990089645423,
+            "max_dwell": 103.72419291852401,
+            "mean_flight": 72.26880234937379,
+            "std_flight": 8.809386785784076,
+            "median_flight": 72.27086221381344,
+            "min_flight": 53.5880011325181,
+            "typing_speed_wpm": 73.65112782478244,
+            "dwell_flight_ratio": 1.3115444313451656,
+            "rhythm_consistency": 0.891347020946672,
+            "total_time_ms": 4176.313690766985,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.922112",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.76065248033046,
+            "std_dwell": 5.955861678522658,
+            "median_dwell": 95.76898284643218,
+            "max_dwell": 105.61235376855987,
+            "mean_flight": 71.30091337861734,
+            "std_flight": 6.905979871580432,
+            "median_flight": 72.29580086345678,
+            "min_flight": 58.76713638399079,
+            "typing_speed_wpm": 76.48740213757615,
+            "dwell_flight_ratio": 1.3290243839814335,
+            "rhythm_consistency": 0.9116960208419611,
+            "total_time_ms": 4151.539146473695,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.928174",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.53866061869243,
+            "std_dwell": 4.9579155702050715,
+            "median_dwell": 95.80334635930181,
+            "max_dwell": 108.17708601456455,
+            "mean_flight": 68.93670067439541,
+            "std_flight": 9.639852506959098,
+            "median_flight": 69.35512816824189,
+            "min_flight": 50.42398444776448,
+            "typing_speed_wpm": 78.95983729193253,
+            "dwell_flight_ratio": 1.4003957206288085,
+            "rhythm_consistency": 0.8773189696332144,
+            "total_time_ms": 4136.884032327196,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.934173",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.02830614729112,
+            "std_dwell": 4.080356832625965,
+            "median_dwell": 94.66447175392541,
+            "max_dwell": 101.58738323896746,
+            "mean_flight": 71.47448429788568,
+            "std_flight": 6.376649608155262,
+            "median_flight": 71.3316969876657,
+            "min_flight": 56.11878048618971,
+            "typing_speed_wpm": 77.64359993983574,
+            "dwell_flight_ratio": 1.3155506761742752,
+            "rhythm_consistency": 0.9180917568156259,
+            "total_time_ms": 4137.56976112942,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.940173",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.98181605907057,
+            "std_dwell": 5.995220206992066,
+            "median_dwell": 96.72818936452165,
+            "max_dwell": 106.06940062916499,
+            "mean_flight": 69.35206740808724,
+            "std_flight": 6.710475436217071,
+            "median_flight": 68.52012691108452,
+            "min_flight": 52.59039674100174,
+            "typing_speed_wpm": 76.5894189743536,
+            "dwell_flight_ratio": 1.383979160913637,
+            "rhythm_consistency": 0.9117768722253603,
+            "total_time_ms": 4133.347086678945,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.946172",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 93.3633742417938,
+            "std_dwell": 4.175479856939126,
+            "median_dwell": 92.6953728773799,
+            "max_dwell": 102.23582953757386,
+            "mean_flight": 72.83583411325155,
+            "std_flight": 5.951744409758276,
+            "median_flight": 72.25575056002839,
+            "min_flight": 61.991755712190745,
+            "typing_speed_wpm": 74.86132628889534,
+            "dwell_flight_ratio": 1.2818329793082925,
+            "rhythm_consistency": 0.9244583407520252,
+            "total_time_ms": 4154.9802088761335,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.952173",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.10994296981056,
+            "std_dwell": 5.859203883814623,
+            "median_dwell": 95.51985406352702,
+            "max_dwell": 111.0442648089121,
+            "mean_flight": 69.18996364654606,
+            "std_flight": 6.434380583840398,
+            "median_flight": 68.83099927494725,
+            "min_flight": 57.58414578793344,
+            "typing_speed_wpm": 74.95746473203585,
+            "dwell_flight_ratio": 1.3890734711291952,
+            "rhythm_consistency": 0.9149165437489504,
+            "total_time_ms": 4132.497665408916,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.958172",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.59627548348838,
+            "std_dwell": 4.998814271747948,
+            "median_dwell": 96.17148373148697,
+            "max_dwell": 105.7135713143784,
+            "mean_flight": 73.12762780388881,
+            "std_flight": 7.318193548804826,
+            "median_flight": 71.56717521054625,
+            "min_flight": 61.762934804724935,
+            "typing_speed_wpm": 69.32180476136342,
+            "dwell_flight_ratio": 1.3072525166528748,
+            "rhythm_consistency": 0.909029537821236,
+            "total_time_ms": 4218.0975821844295,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.964177",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.12882743249281,
+            "std_dwell": 5.052981391668025,
+            "median_dwell": 93.97209382426325,
+            "max_dwell": 103.81115988362444,
+            "mean_flight": 69.67282356324569,
+            "std_flight": 5.874390940452319,
+            "median_flight": 70.76299431754053,
+            "min_flight": 56.874179974297434,
+            "typing_speed_wpm": 73.33939336037528,
+            "dwell_flight_ratio": 1.3510120965177639,
+            "rhythm_consistency": 0.922242123961238,
+            "total_time_ms": 4095.0412748934627,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.969183",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.34258520901915,
+            "std_dwell": 4.595398999036907,
+            "median_dwell": 95.67974999220617,
+            "max_dwell": 101.15830225161612,
+            "mean_flight": 68.58570280240612,
+            "std_flight": 8.980032288407239,
+            "median_flight": 68.1482553890657,
+            "min_flight": 54.79901208998336,
+            "typing_speed_wpm": 76.55209086791788,
+            "dwell_flight_ratio": 1.3901233247357545,
+            "rhythm_consistency": 0.8842268138386945,
+            "total_time_ms": 4098.207200285631,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.974178",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.00889264466845,
+            "std_dwell": 5.751212926360699,
+            "median_dwell": 97.03524248867475,
+            "max_dwell": 109.56093759017675,
+            "mean_flight": 72.3316210809798,
+            "std_flight": 6.758190615561302,
+            "median_flight": 73.1092609914246,
+            "min_flight": 58.66573317203491,
+            "typing_speed_wpm": 77.90795219376565,
+            "dwell_flight_ratio": 1.3273433003413604,
+            "rhythm_consistency": 0.9145504272852268,
+            "total_time_ms": 4208.512843141207,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.980173",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 93.51415653288903,
+            "std_dwell": 3.4433939928296127,
+            "median_dwell": 92.89076689852132,
+            "max_dwell": 100.5317426415996,
+            "mean_flight": 68.79314901072972,
+            "std_flight": 8.110913035076049,
+            "median_flight": 69.27816252832481,
+            "min_flight": 51.30141484863006,
+            "typing_speed_wpm": 79.01674523922574,
+            "dwell_flight_ratio": 1.3593527535467749,
+            "rhythm_consistency": 0.8945320595647469,
+            "total_time_ms": 4057.6826385904687,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.987175",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.61870847869726,
+            "std_dwell": 5.076583034838045,
+            "median_dwell": 96.40313236747583,
+            "max_dwell": 108.33109384327061,
+            "mean_flight": 71.1629289759542,
+            "std_flight": 8.307445810717963,
+            "median_flight": 70.51547998982333,
+            "min_flight": 48.1351156372298,
+            "typing_speed_wpm": 72.73788492293582,
+            "dwell_flight_ratio": 1.3577112391108088,
+            "rhythm_consistency": 0.8954648718718362,
+            "total_time_ms": 4194.540936366287,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.993175",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.90139217346173,
+            "std_dwell": 5.3324755994887845,
+            "median_dwell": 96.29070071069532,
+            "max_dwell": 104.94641682277397,
+            "mean_flight": 71.0886841285483,
+            "std_flight": 8.751304048217403,
+            "median_flight": 71.38185095195067,
+            "min_flight": 50.86900973033309,
+            "typing_speed_wpm": 72.1025556655546,
+            "dwell_flight_ratio": 1.3490387865394313,
+            "rhythm_consistency": 0.8903894621221383,
+            "total_time_ms": 4174.7519075502505,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:33.999179",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.83993334766045,
+            "std_dwell": 5.217182365448374,
+            "median_dwell": 94.30049929566215,
+            "max_dwell": 104.69886561118635,
+            "mean_flight": 67.25805073940722,
+            "std_flight": 8.583965440829012,
+            "median_flight": 67.50213014028907,
+            "min_flight": 46.540422023843846,
+            "typing_speed_wpm": 71.37236852191573,
+            "dwell_flight_ratio": 1.4100904249384185,
+            "rhythm_consistency": 0.8868178105862919,
+            "total_time_ms": 4052.4496021766918,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:06:34.005179",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.78374528130561,
+            "std_dwell": 5.432318563635102,
+            "median_dwell": 94.62990089645423,
+            "max_dwell": 103.72419291852401,
+            "mean_flight": 72.26880234937379,
+            "std_flight": 8.809386785784076,
+            "median_flight": 72.27086221381344,
+            "min_flight": 53.5880011325181,
+            "typing_speed_wpm": 73.65112782478244,
+            "dwell_flight_ratio": 1.3115444313451656,
+            "rhythm_consistency": 0.891347020946672,
+            "total_time_ms": 4176.313690766985,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.709104",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.76065248033046,
+            "std_dwell": 5.955861678522658,
+            "median_dwell": 95.76898284643218,
+            "max_dwell": 105.61235376855987,
+            "mean_flight": 71.30091337861734,
+            "std_flight": 6.905979871580432,
+            "median_flight": 72.29580086345678,
+            "min_flight": 58.76713638399079,
+            "typing_speed_wpm": 76.48740213757615,
+            "dwell_flight_ratio": 1.3290243839814335,
+            "rhythm_consistency": 0.9116960208419611,
+            "total_time_ms": 4151.539146473695,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.718104",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.53866061869243,
+            "std_dwell": 4.9579155702050715,
+            "median_dwell": 95.80334635930181,
+            "max_dwell": 108.17708601456455,
+            "mean_flight": 68.93670067439541,
+            "std_flight": 9.639852506959098,
+            "median_flight": 69.35512816824189,
+            "min_flight": 50.42398444776448,
+            "typing_speed_wpm": 78.95983729193253,
+            "dwell_flight_ratio": 1.4003957206288085,
+            "rhythm_consistency": 0.8773189696332144,
+            "total_time_ms": 4136.884032327196,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.726104",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.02830614729112,
+            "std_dwell": 4.080356832625965,
+            "median_dwell": 94.66447175392541,
+            "max_dwell": 101.58738323896746,
+            "mean_flight": 71.47448429788568,
+            "std_flight": 6.376649608155262,
+            "median_flight": 71.3316969876657,
+            "min_flight": 56.11878048618971,
+            "typing_speed_wpm": 77.64359993983574,
+            "dwell_flight_ratio": 1.3155506761742752,
+            "rhythm_consistency": 0.9180917568156259,
+            "total_time_ms": 4137.56976112942,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.734105",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.98181605907057,
+            "std_dwell": 5.995220206992066,
+            "median_dwell": 96.72818936452165,
+            "max_dwell": 106.06940062916499,
+            "mean_flight": 69.35206740808724,
+            "std_flight": 6.710475436217071,
+            "median_flight": 68.52012691108452,
+            "min_flight": 52.59039674100174,
+            "typing_speed_wpm": 76.5894189743536,
+            "dwell_flight_ratio": 1.383979160913637,
+            "rhythm_consistency": 0.9117768722253603,
+            "total_time_ms": 4133.347086678945,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.743105",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 93.3633742417938,
+            "std_dwell": 4.175479856939126,
+            "median_dwell": 92.6953728773799,
+            "max_dwell": 102.23582953757386,
+            "mean_flight": 72.83583411325155,
+            "std_flight": 5.951744409758276,
+            "median_flight": 72.25575056002839,
+            "min_flight": 61.991755712190745,
+            "typing_speed_wpm": 74.86132628889534,
+            "dwell_flight_ratio": 1.2818329793082925,
+            "rhythm_consistency": 0.9244583407520252,
+            "total_time_ms": 4154.9802088761335,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.752107",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.10994296981056,
+            "std_dwell": 5.859203883814623,
+            "median_dwell": 95.51985406352702,
+            "max_dwell": 111.0442648089121,
+            "mean_flight": 69.18996364654606,
+            "std_flight": 6.434380583840398,
+            "median_flight": 68.83099927494725,
+            "min_flight": 57.58414578793344,
+            "typing_speed_wpm": 74.95746473203585,
+            "dwell_flight_ratio": 1.3890734711291952,
+            "rhythm_consistency": 0.9149165437489504,
+            "total_time_ms": 4132.497665408916,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.760105",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.59627548348838,
+            "std_dwell": 4.998814271747948,
+            "median_dwell": 96.17148373148697,
+            "max_dwell": 105.7135713143784,
+            "mean_flight": 73.12762780388881,
+            "std_flight": 7.318193548804826,
+            "median_flight": 71.56717521054625,
+            "min_flight": 61.762934804724935,
+            "typing_speed_wpm": 69.32180476136342,
+            "dwell_flight_ratio": 1.3072525166528748,
+            "rhythm_consistency": 0.909029537821236,
+            "total_time_ms": 4218.0975821844295,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.768107",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.12882743249281,
+            "std_dwell": 5.052981391668025,
+            "median_dwell": 93.97209382426325,
+            "max_dwell": 103.81115988362444,
+            "mean_flight": 69.67282356324569,
+            "std_flight": 5.874390940452319,
+            "median_flight": 70.76299431754053,
+            "min_flight": 56.874179974297434,
+            "typing_speed_wpm": 73.33939336037528,
+            "dwell_flight_ratio": 1.3510120965177639,
+            "rhythm_consistency": 0.922242123961238,
+            "total_time_ms": 4095.0412748934627,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.777107",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.34258520901915,
+            "std_dwell": 4.595398999036907,
+            "median_dwell": 95.67974999220617,
+            "max_dwell": 101.15830225161612,
+            "mean_flight": 68.58570280240612,
+            "std_flight": 8.980032288407239,
+            "median_flight": 68.1482553890657,
+            "min_flight": 54.79901208998336,
+            "typing_speed_wpm": 76.55209086791788,
+            "dwell_flight_ratio": 1.3901233247357545,
+            "rhythm_consistency": 0.8842268138386945,
+            "total_time_ms": 4098.207200285631,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.787105",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.00889264466845,
+            "std_dwell": 5.751212926360699,
+            "median_dwell": 97.03524248867475,
+            "max_dwell": 109.56093759017675,
+            "mean_flight": 72.3316210809798,
+            "std_flight": 6.758190615561302,
+            "median_flight": 73.1092609914246,
+            "min_flight": 58.66573317203491,
+            "typing_speed_wpm": 77.90795219376565,
+            "dwell_flight_ratio": 1.3273433003413604,
+            "rhythm_consistency": 0.9145504272852268,
+            "total_time_ms": 4208.512843141207,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.796109",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 93.51415653288903,
+            "std_dwell": 3.4433939928296127,
+            "median_dwell": 92.89076689852132,
+            "max_dwell": 100.5317426415996,
+            "mean_flight": 68.79314901072972,
+            "std_flight": 8.110913035076049,
+            "median_flight": 69.27816252832481,
+            "min_flight": 51.30141484863006,
+            "typing_speed_wpm": 79.01674523922574,
+            "dwell_flight_ratio": 1.3593527535467749,
+            "rhythm_consistency": 0.8945320595647469,
+            "total_time_ms": 4057.6826385904687,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.805110",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.61870847869726,
+            "std_dwell": 5.076583034838045,
+            "median_dwell": 96.40313236747583,
+            "max_dwell": 108.33109384327061,
+            "mean_flight": 71.1629289759542,
+            "std_flight": 8.307445810717963,
+            "median_flight": 70.51547998982333,
+            "min_flight": 48.1351156372298,
+            "typing_speed_wpm": 72.73788492293582,
+            "dwell_flight_ratio": 1.3577112391108088,
+            "rhythm_consistency": 0.8954648718718362,
+            "total_time_ms": 4194.540936366287,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.816765",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.90139217346173,
+            "std_dwell": 5.3324755994887845,
+            "median_dwell": 96.29070071069532,
+            "max_dwell": 104.94641682277397,
+            "mean_flight": 71.0886841285483,
+            "std_flight": 8.751304048217403,
+            "median_flight": 71.38185095195067,
+            "min_flight": 50.86900973033309,
+            "typing_speed_wpm": 72.1025556655546,
+            "dwell_flight_ratio": 1.3490387865394313,
+            "rhythm_consistency": 0.8903894621221383,
+            "total_time_ms": 4174.7519075502505,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.824681",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.83993334766045,
+            "std_dwell": 5.217182365448374,
+            "median_dwell": 94.30049929566215,
+            "max_dwell": 104.69886561118635,
+            "mean_flight": 67.25805073940722,
+            "std_flight": 8.583965440829012,
+            "median_flight": 67.50213014028907,
+            "min_flight": 46.540422023843846,
+            "typing_speed_wpm": 71.37236852191573,
+            "dwell_flight_ratio": 1.4100904249384185,
+            "rhythm_consistency": 0.8868178105862919,
+            "total_time_ms": 4052.4496021766918,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:07:48.832681",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.78374528130561,
+            "std_dwell": 5.432318563635102,
+            "median_dwell": 94.62990089645423,
+            "max_dwell": 103.72419291852401,
+            "mean_flight": 72.26880234937379,
+            "std_flight": 8.809386785784076,
+            "median_flight": 72.27086221381344,
+            "min_flight": 53.5880011325181,
+            "typing_speed_wpm": 73.65112782478244,
+            "dwell_flight_ratio": 1.3115444313451656,
+            "rhythm_consistency": 0.891347020946672,
+            "total_time_ms": 4176.313690766985,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.152116",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.76065248033046,
+            "std_dwell": 5.955861678522658,
+            "median_dwell": 95.76898284643218,
+            "max_dwell": 105.61235376855987,
+            "mean_flight": 71.30091337861734,
+            "std_flight": 6.905979871580432,
+            "median_flight": 72.29580086345678,
+            "min_flight": 58.76713638399079,
+            "typing_speed_wpm": 76.48740213757615,
+            "dwell_flight_ratio": 1.3290243839814335,
+            "rhythm_consistency": 0.9116960208419611,
+            "total_time_ms": 4151.539146473695,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.162643",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.53866061869243,
+            "std_dwell": 4.9579155702050715,
+            "median_dwell": 95.80334635930181,
+            "max_dwell": 108.17708601456455,
+            "mean_flight": 68.93670067439541,
+            "std_flight": 9.639852506959098,
+            "median_flight": 69.35512816824189,
+            "min_flight": 50.42398444776448,
+            "typing_speed_wpm": 78.95983729193253,
+            "dwell_flight_ratio": 1.4003957206288085,
+            "rhythm_consistency": 0.8773189696332144,
+            "total_time_ms": 4136.884032327196,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.173694",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.02830614729112,
+            "std_dwell": 4.080356832625965,
+            "median_dwell": 94.66447175392541,
+            "max_dwell": 101.58738323896746,
+            "mean_flight": 71.47448429788568,
+            "std_flight": 6.376649608155262,
+            "median_flight": 71.3316969876657,
+            "min_flight": 56.11878048618971,
+            "typing_speed_wpm": 77.64359993983574,
+            "dwell_flight_ratio": 1.3155506761742752,
+            "rhythm_consistency": 0.9180917568156259,
+            "total_time_ms": 4137.56976112942,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.185207",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.98181605907057,
+            "std_dwell": 5.995220206992066,
+            "median_dwell": 96.72818936452165,
+            "max_dwell": 106.06940062916499,
+            "mean_flight": 69.35206740808724,
+            "std_flight": 6.710475436217071,
+            "median_flight": 68.52012691108452,
+            "min_flight": 52.59039674100174,
+            "typing_speed_wpm": 76.5894189743536,
+            "dwell_flight_ratio": 1.383979160913637,
+            "rhythm_consistency": 0.9117768722253603,
+            "total_time_ms": 4133.347086678945,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.196929",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 93.3633742417938,
+            "std_dwell": 4.175479856939126,
+            "median_dwell": 92.6953728773799,
+            "max_dwell": 102.23582953757386,
+            "mean_flight": 72.83583411325155,
+            "std_flight": 5.951744409758276,
+            "median_flight": 72.25575056002839,
+            "min_flight": 61.991755712190745,
+            "typing_speed_wpm": 74.86132628889534,
+            "dwell_flight_ratio": 1.2818329793082925,
+            "rhythm_consistency": 0.9244583407520252,
+            "total_time_ms": 4154.9802088761335,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.207455",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.10994296981056,
+            "std_dwell": 5.859203883814623,
+            "median_dwell": 95.51985406352702,
+            "max_dwell": 111.0442648089121,
+            "mean_flight": 69.18996364654606,
+            "std_flight": 6.434380583840398,
+            "median_flight": 68.83099927494725,
+            "min_flight": 57.58414578793344,
+            "typing_speed_wpm": 74.95746473203585,
+            "dwell_flight_ratio": 1.3890734711291952,
+            "rhythm_consistency": 0.9149165437489504,
+            "total_time_ms": 4132.497665408916,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.219580",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.59627548348838,
+            "std_dwell": 4.998814271747948,
+            "median_dwell": 96.17148373148697,
+            "max_dwell": 105.7135713143784,
+            "mean_flight": 73.12762780388881,
+            "std_flight": 7.318193548804826,
+            "median_flight": 71.56717521054625,
+            "min_flight": 61.762934804724935,
+            "typing_speed_wpm": 69.32180476136342,
+            "dwell_flight_ratio": 1.3072525166528748,
+            "rhythm_consistency": 0.909029537821236,
+            "total_time_ms": 4218.0975821844295,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.230640",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.12882743249281,
+            "std_dwell": 5.052981391668025,
+            "median_dwell": 93.97209382426325,
+            "max_dwell": 103.81115988362444,
+            "mean_flight": 69.67282356324569,
+            "std_flight": 5.874390940452319,
+            "median_flight": 70.76299431754053,
+            "min_flight": 56.874179974297434,
+            "typing_speed_wpm": 73.33939336037528,
+            "dwell_flight_ratio": 1.3510120965177639,
+            "rhythm_consistency": 0.922242123961238,
+            "total_time_ms": 4095.0412748934627,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.240779",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.34258520901915,
+            "std_dwell": 4.595398999036907,
+            "median_dwell": 95.67974999220617,
+            "max_dwell": 101.15830225161612,
+            "mean_flight": 68.58570280240612,
+            "std_flight": 8.980032288407239,
+            "median_flight": 68.1482553890657,
+            "min_flight": 54.79901208998336,
+            "typing_speed_wpm": 76.55209086791788,
+            "dwell_flight_ratio": 1.3901233247357545,
+            "rhythm_consistency": 0.8842268138386945,
+            "total_time_ms": 4098.207200285631,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.253360",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.00889264466845,
+            "std_dwell": 5.751212926360699,
+            "median_dwell": 97.03524248867475,
+            "max_dwell": 109.56093759017675,
+            "mean_flight": 72.3316210809798,
+            "std_flight": 6.758190615561302,
+            "median_flight": 73.1092609914246,
+            "min_flight": 58.66573317203491,
+            "typing_speed_wpm": 77.90795219376565,
+            "dwell_flight_ratio": 1.3273433003413604,
+            "rhythm_consistency": 0.9145504272852268,
+            "total_time_ms": 4208.512843141207,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.265878",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 93.51415653288903,
+            "std_dwell": 3.4433939928296127,
+            "median_dwell": 92.89076689852132,
+            "max_dwell": 100.5317426415996,
+            "mean_flight": 68.79314901072972,
+            "std_flight": 8.110913035076049,
+            "median_flight": 69.27816252832481,
+            "min_flight": 51.30141484863006,
+            "typing_speed_wpm": 79.01674523922574,
+            "dwell_flight_ratio": 1.3593527535467749,
+            "rhythm_consistency": 0.8945320595647469,
+            "total_time_ms": 4057.6826385904687,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.277404",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 96.61870847869726,
+            "std_dwell": 5.076583034838045,
+            "median_dwell": 96.40313236747583,
+            "max_dwell": 108.33109384327061,
+            "mean_flight": 71.1629289759542,
+            "std_flight": 8.307445810717963,
+            "median_flight": 70.51547998982333,
+            "min_flight": 48.1351156372298,
+            "typing_speed_wpm": 72.73788492293582,
+            "dwell_flight_ratio": 1.3577112391108088,
+            "rhythm_consistency": 0.8954648718718362,
+            "total_time_ms": 4194.540936366287,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.288415",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 95.90139217346173,
+            "std_dwell": 5.3324755994887845,
+            "median_dwell": 96.29070071069532,
+            "max_dwell": 104.94641682277397,
+            "mean_flight": 71.0886841285483,
+            "std_flight": 8.751304048217403,
+            "median_flight": 71.38185095195067,
+            "min_flight": 50.86900973033309,
+            "typing_speed_wpm": 72.1025556655546,
+            "dwell_flight_ratio": 1.3490387865394313,
+            "rhythm_consistency": 0.8903894621221383,
+            "total_time_ms": 4174.7519075502505,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.300630",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.83993334766045,
+            "std_dwell": 5.217182365448374,
+            "median_dwell": 94.30049929566215,
+            "max_dwell": 104.69886561118635,
+            "mean_flight": 67.25805073940722,
+            "std_flight": 8.583965440829012,
+            "median_flight": 67.50213014028907,
+            "min_flight": 46.540422023843846,
+            "typing_speed_wpm": 71.37236852191573,
+            "dwell_flight_ratio": 1.4100904249384185,
+            "rhythm_consistency": 0.8868178105862919,
+            "total_time_ms": 4052.4496021766918,
+            "n_keys": 25
+          }
+        },
+        {
+          "timestamp": "2026-04-04T16:20:26.311761",
+          "text": "the quick brown fox jumps",
+          "features": {
+            "mean_dwell": 94.78374528130561,
+            "std_dwell": 5.432318563635102,
+            "median_dwell": 94.62990089645423,
+            "max_dwell": 103.72419291852401,
+            "mean_flight": 72.26880234937379,
+            "std_flight": 8.809386785784076,
+            "median_flight": 72.27086221381344,
+            "min_flight": 53.5880011325181,
+            "typing_speed_wpm": 73.65112782478244,
+            "dwell_flight_ratio": 1.3115444313451656,
+            "rhythm_consistency": 0.891347020946672,
+            "total_time_ms": 4176.313690766985,
+            "n_keys": 25
+          }
+        }
+      ],
+      "password_hash": "2f48046cc6dbd310f68ee889d57f3be52ea2e033da0ff9426033df7edfcac25a"
+    }
+  }
+}
