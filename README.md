@@ -413,7 +413,9 @@ This project is released under the MIT License for academic and research purpose
 
 ## Author
 **Harsh Tripathi**
-**Roll No**: AD23B1021  
+**Institution**: IIIT Raichur  
+
+**Vaishali Pawar**  
 **Institution**: IIIT Raichur  
 
 ---
